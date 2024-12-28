@@ -8442,6 +8442,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -8532,6 +8544,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_orange_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_black_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:46 +0000"
@@ -8571,6 +8595,12 @@
   "connectedglass:recipes/misc/scratched_glass1": {
     "criteria": {
       "recipe_condition": "2024-12-28 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
     },
     "done": true
   },
@@ -8760,6 +8790,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "adchimneys:recipes/building_blocks/glass_chimney": {
     "criteria": {
       "has_item": "2024-12-28 16:40:26 +0000"
@@ -8793,6 +8829,12 @@
   "connectedglass:recipes/misc/clear_glass_lime2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
     },
     "done": true
   },
@@ -8850,6 +8892,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -8865,6 +8913,12 @@
   "connectedglass:recipes/misc/borderless_glass_pink2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
     },
     "done": true
   },
@@ -8988,6 +9042,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_light_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -9096,6 +9156,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_light_gray2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:42 +0000"
@@ -9126,6 +9192,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_lime_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -9147,6 +9219,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
     },
     "done": true
   },
@@ -9192,6 +9270,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -9234,6 +9318,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_green_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:46 +0000"
@@ -9264,6 +9354,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-28 16:40:49 +0000"
@@ -9291,6 +9387,12 @@
   "connectedglass:recipes/misc/borderless_glass_magenta2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-28 16:47:58 +0000"
     },
     "done": true
   },
