@@ -14418,6 +14418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-28 19:45:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2024-12-28 19:23:22 +0000"
@@ -14433,6 +14439,12 @@
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2024-12-28 19:12:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2024-12-28 19:45:12 +0000"
     },
     "done": true
   },
@@ -14457,6 +14469,12 @@
   "farlanders:kill_classic_enderman": {
     "criteria": {
       "kill_enderman": "2024-12-28 19:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-28 19:45:12 +0000"
     },
     "done": true
   },

@@ -2212,3 +2212,7 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 19:39:12.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
 [28Dec2024 19:39:12.015] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
 [28Dec2024 19:41:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[28Dec2024 19:46:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[28Dec2024 19:47:01.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[28Dec2024 19:47:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[28Dec2024 19:50:20.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
