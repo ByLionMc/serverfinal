@@ -2225,3 +2225,10 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 20:38:22.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Into Fire]
 [28Dec2024 20:39:26.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
 [28Dec2024 20:40:19.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[28Dec2024 20:47:36.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/102300, l='ServerLevel[world]', x=7329.58, y=60.70, z=-476.92] died, message: 'Nitwit was slain by Crocodile'
+[28Dec2024 20:49:24.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/102298, l='ServerLevel[world]', x=7265.40, y=62.15, z=-503.62] died, message: 'Farmer was slain by Crocodile'
+[28Dec2024 20:50:21.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7401, y=61, z=-386} BlockPos{x=7402, y=59, z=-387}
+[28Dec2024 20:50:21.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7401, y=61, z=-386} BlockPos{x=7402, y=59, z=-387}
+[28Dec2024 20:50:21.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7401, y=61, z=-386} BlockPos{x=7402, y=59, z=-387}
+[28Dec2024 20:50:25.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7398, y=61, z=-386} BlockPos{x=7398, y=59, z=-386}
+[28Dec2024 20:50:42.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
