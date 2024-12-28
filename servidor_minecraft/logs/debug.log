@@ -18268,3 +18268,10 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 23:06:44.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
 [28Dec2024 23:10:32.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 23:10:32.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:15:32.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:15:32.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:18:55.811] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming mekanism/generators/common/slot/FluidFuelInventorySlot (target of mekanism/common/inventory/slot/BasicInventorySlot)
+[28Dec2024 23:20:32.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:20:32.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:21:54.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[28Dec2024 23:21:57.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2

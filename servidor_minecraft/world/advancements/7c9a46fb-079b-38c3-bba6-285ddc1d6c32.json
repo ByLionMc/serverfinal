@@ -14874,5 +14874,11 @@
     },
     "done": true
   },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2024-12-28 23:12:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
