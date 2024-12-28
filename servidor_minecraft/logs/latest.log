@@ -2147,3 +2147,6 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 17:36:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
 [28Dec2024 17:47:36.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
 [28Dec2024 17:49:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the weather to clear]
+[28Dec2024 17:53:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Brass Age]
+[28Dec2024 17:55:26.843] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/crafter/MechanicalCrafterBlockEntity$Phase
+[28Dec2024 17:59:35.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]

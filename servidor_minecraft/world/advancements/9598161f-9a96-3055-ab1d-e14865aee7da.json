@@ -824,6 +824,7 @@
     "criteria": {
       "woodland": "2024-12-26 01:16:14 +0000",
       "shrubland": "2024-12-27 15:52:37 +0000",
+      "rocky_shrubland": "2024-12-28 17:55:04 +0000",
       "old_growth_woodland": "2024-12-27 16:26:56 +0000",
       "mediterranean_forest": "2024-12-26 00:20:53 +0000",
       "spider_nest": "2024-12-26 00:21:03 +0000"
@@ -8527,9 +8528,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-28 17:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-28 17:54:59 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_cyan2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2024-12-28 17:54:59 +0000"
     },
     "done": true
   },
@@ -8548,6 +8573,12 @@
   "connectedglass:recipes/misc/borderless_glass_orange_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gray_wool_slab": {
+    "criteria": {
+      "has_gray_wool": "2024-12-28 17:54:59 +0000"
     },
     "done": true
   },
@@ -8578,6 +8609,12 @@
   "connectedglass:recipes/misc/clear_glass_blue_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-28 17:47:49 +0000"
     },
     "done": true
   },
@@ -8620,6 +8657,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
     },
     "done": true
   },
@@ -8671,6 +8714,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-28 17:54:59 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_light_gray2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:37 +0000"
@@ -8701,9 +8750,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2024-12-28 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-28 17:54:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
     },
     "done": true
   },
@@ -8722,6 +8789,18 @@
   "connectedglass:recipes/misc/clear_glass_black2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
     },
     "done": true
   },
@@ -8779,6 +8858,13 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000",
+      "has_the_recipe": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2024-12-28 16:38:35 +0000"
@@ -8821,9 +8907,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-28 17:47:49 +0000"
+    },
+    "done": true
+  },
   "adchimneys:recipes/building_blocks/glass_chimney": {
     "criteria": {
       "has_item": "2024-12-28 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
     },
     "done": true
   },
@@ -8857,6 +8955,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_light_gray_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:47:58 +0000"
@@ -8866,6 +8970,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-28 17:47:53 +0000"
     },
     "done": true
   },
@@ -8899,6 +9009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-28 16:40:49 +0000"
@@ -8920,6 +9036,12 @@
   "connectedglass:recipes/misc/borderless_glass_green_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2024-12-28 17:53:49 +0000"
     },
     "done": true
   },
@@ -8959,6 +9081,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-28 17:54:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -8968,6 +9096,12 @@
   "connectedglass:recipes/misc/clear_glass_white2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_flag": {
+    "criteria": {
+      "has_gray_flag": "2024-12-28 17:54:59 +0000"
     },
     "done": true
   },
@@ -8995,6 +9129,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -9010,6 +9150,12 @@
   "connectedglass:recipes/misc/clear_glass_green2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-28 17:54:59 +0000"
     },
     "done": true
   },
@@ -9061,6 +9207,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-28 17:50:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -9091,6 +9243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-28 17:54:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -9100,6 +9258,12 @@
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2024-12-28 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 17:47:49 +0000"
     },
     "done": true
   },
@@ -9142,6 +9306,12 @@
   "connectedglass:recipes/misc/borderless_glass_light_blue2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-28 17:54:59 +0000"
     },
     "done": true
   },
@@ -9199,6 +9369,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
@@ -9232,6 +9408,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-28 17:12:44 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cherry_log_slab": {
+    "criteria": {
+      "has_cherry_log": "2024-12-28 17:53:49 +0000"
     },
     "done": true
   },
@@ -9295,6 +9477,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_purple_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:46 +0000"
@@ -9304,6 +9492,30 @@
   "connectedglass:recipes/misc/borderless_glass_white_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 17:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-28 17:54:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
+    "criteria": {
+      "has_log": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2024-12-28 17:53:49 +0000"
     },
     "done": true
   },
@@ -9319,6 +9531,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_gray2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:37 +0000"
@@ -9328,6 +9546,18 @@
   "connectedglass:recipes/misc/clear_glass_yellow2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-28 17:54:59 +0000"
     },
     "done": true
   },
@@ -9409,9 +9639,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2024-12-28 17:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-28 17:54:59 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_lime2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:37 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:53:49 +0000"
     },
     "done": true
   },
