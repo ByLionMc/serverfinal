@@ -2114,3 +2114,9 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 16:14:19.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DeferentCurve07 a server operator
 [28Dec2024 16:16:31.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [28Dec2024 16:17:02.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[28Dec2024 16:18:18.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[28Dec2024 16:19:55.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
+[28Dec2024 16:20:21.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the weather to rain & thunder]
+[28Dec2024 16:20:29.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the weather to clear]
+[28Dec2024 16:25:46.722] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[28Dec2024 16:27:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to myser444]
