@@ -17135,3 +17135,27 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 18:09:14.475] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=6135, y=74, z=-375}) doesn't have enough leaves around top most log
 [28Dec2024 18:09:15.174] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=6135, y=73, z=-375}) doesn't have enough leaves around top most log
 [28Dec2024 18:09:28.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Dec2024 18:10:28.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:10:29.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:14:41.188] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[28Dec2024 18:15:28.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:15:29.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:20:29.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:20:29.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:20:52.411] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/simibubi/create/content/kinetics/crafter/MechanicalCraftingInventory (target of net/minecraft/world/Container)
+[28Dec2024 18:22:57.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to carloselpillo]
+[28Dec2024 18:23:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [A Pair of Giants]
+[28Dec2024 18:24:15.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Dec2024 18:24:31.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[28Dec2024 18:25:28.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:25:28.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:27:16.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[28Dec2024 18:27:16.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Dec2024 18:27:16.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[28Dec2024 18:27:17.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[28Dec2024 18:27:17.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[28Dec2024 18:27:17.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[28Dec2024 18:30:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[28Dec2024 18:30:25.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
+[28Dec2024 18:30:28.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:30:28.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

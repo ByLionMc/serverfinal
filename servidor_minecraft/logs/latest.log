@@ -2162,3 +2162,8 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 18:06:54.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
 [28Dec2024 18:06:54.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
 [28Dec2024 18:07:04.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [It's Cutting Edge!]
+[28Dec2024 18:14:41.188] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[28Dec2024 18:22:57.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to carloselpillo]
+[28Dec2024 18:23:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [A Pair of Giants]
+[28Dec2024 18:30:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[28Dec2024 18:30:25.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]

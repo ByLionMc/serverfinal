@@ -13775,6 +13775,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-12-28 18:14:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2024-12-28 17:54:08 +0000"
@@ -13826,6 +13832,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2024-12-28 17:54:08 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-12-28 18:23:46 +0000"
     },
     "done": true
   },

@@ -8792,6 +8792,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-12-28 18:25:49 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-28 17:53:49 +0000"
@@ -9174,6 +9180,12 @@
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-28 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "farlanders:craft_nightfall_sword": {
+    "criteria": {
+      "craft_sword": "2024-12-28 18:07:04 +0000"
     },
     "done": true
   },
