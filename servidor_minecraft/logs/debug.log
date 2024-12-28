@@ -17736,3 +17736,45 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 20:29:36.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Your First Receptacle]
 [28Dec2024 20:30:28.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 20:30:28.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 20:35:10.693] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/controller/ControllerBlockEntityBase (target of net/minecraftforge/items/IItemHandler)
+[28Dec2024 20:35:10.707] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/inventory/CachedFailedInsertInventoryHandler (target of net/minecraftforge/items/IItemHandler)
+[28Dec2024 20:35:28.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 20:35:28.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 20:37:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has completed the challenge [Return to Sender]
+[28Dec2024 20:38:22.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Into Fire]
+[28Dec2024 20:39:23.487] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=817, y=70, z=-82} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[28Dec2024 20:39:23.489] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=817, y=70, z=-82} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[28Dec2024 20:39:23.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[28Dec2024 20:39:23.793] [Server thread/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[28Dec2024 20:39:24.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[28Dec2024 20:39:26.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
+[28Dec2024 20:39:27.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[28Dec2024 20:39:27.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[28Dec2024 20:39:27.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[28Dec2024 20:39:28.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[28Dec2024 20:39:28.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[28Dec2024 20:39:29.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[28Dec2024 20:39:30.160] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[28Dec2024 20:39:30.169] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[28Dec2024 20:39:30.174] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[28Dec2024 20:39:30.179] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[28Dec2024 20:39:30.189] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[28Dec2024 20:39:30.194] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[28Dec2024 20:39:30.200] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[28Dec2024 20:39:32.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[28Dec2024 20:39:32.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[28Dec2024 20:39:34.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[28Dec2024 20:39:34.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[28Dec2024 20:39:34.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[28Dec2024 20:39:35.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[28Dec2024 20:39:35.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[28Dec2024 20:40:19.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[28Dec2024 20:40:28.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[28Dec2024 20:40:28.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[28Dec2024 20:40:32.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 20:40:32.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 20:40:38.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Dec2024 20:41:14.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[28Dec2024 20:41:15.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[28Dec2024 20:41:15.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[28Dec2024 20:41:15.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
