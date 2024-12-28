@@ -2250,3 +2250,6 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 22:29:17.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to joselete123
 [28Dec2024 22:29:17.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
 [28Dec2024 22:29:18.001] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[28Dec2024 22:40:14.769] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[28Dec2024 22:40:14.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[28Dec2024 22:40:14.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
