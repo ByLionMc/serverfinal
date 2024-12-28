@@ -17664,3 +17664,48 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 19:50:20.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [28Dec2024 19:50:28.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 19:50:28.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:53:03.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[28Dec2024 19:53:04.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[28Dec2024 19:53:04.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[28Dec2024 19:53:04.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[28Dec2024 19:53:04.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[28Dec2024 19:53:04.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[28Dec2024 19:53:05.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Dec2024 19:53:05.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[28Dec2024 19:53:05.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[28Dec2024 19:53:05.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[28Dec2024 19:53:17.438] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal is no longer valid
+[28Dec2024 19:53:17.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[28Dec2024 19:53:17.557] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6642, y=104, z=-638} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[28Dec2024 19:53:17.559] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6642, y=104, z=-638} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[28Dec2024 19:53:17.569] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[28Dec2024 19:53:17.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[28Dec2024 19:53:18.147] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/tower/whole is being run through DFU (hash 17cbebf9528c9432ee52ee1542bf326f2ce675266ada3d0c7622191a0d8e4ffb), this will cause launch time delays
+[28Dec2024 19:53:18.311] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/gilded_blackstone is being run through DFU (hash 54773a4b4582ef413954b92c8c6dee1664065d3c63adf491b794623849c5ffc8), this will cause launch time delays
+[28Dec2024 19:53:18.314] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/bridge_chest is being run through DFU (hash 23801da4e7607bdb5fbea462855b2076d13c3de021d397e4504c86f92bd8c434), this will cause launch time delays
+[28Dec2024 19:53:18.318] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/treasure_chest is being run through DFU (hash a74297a3bb293409c2ab7980a269e20b5ff911e032e6eeb2b8418c52fad82043), this will cause launch time delays
+[28Dec2024 19:53:18.323] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge/normal is being run through DFU (hash f20f6b5af8b39b449985d7e5500a72c23701d57f2e4d97e1bd92fca0c011db5d), this will cause launch time delays
+[28Dec2024 19:53:18.350] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/piglins is being run through DFU (hash 2b1938f2a87a672962d2888a7cc304f625b3deafaca128560b1819abe87473be), this will cause launch time delays
+[28Dec2024 19:53:18.356] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/nether_wart is being run through DFU (hash 04068336b55b2cff732f488d745b61572b76f546de0e66e375f58053bd87e1d5), this will cause launch time delays
+[28Dec2024 19:53:18.358] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/blaze_spawner is being run through DFU (hash 3c017ac499d1806260d7887485d422d93c59f4fed4cd8f1302f48a7568d764e1), this will cause launch time delays
+[28Dec2024 19:53:18.490] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge/ruined is being run through DFU (hash 9d85d8751630757b1aeaf9088b7098918ed6ba8e3c439964ac7a27805b284bb4), this will cause launch time delays
+[28Dec2024 19:53:18.496] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/gold is being run through DFU (hash 986328020a6d2e330e83091629dcd5524252452319d61ac60f18cd58d86d7313), this will cause launch time delays
+[28Dec2024 19:53:18.498] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/chisel is being run through DFU (hash 05847989c7cb9762a2e6d6eab050ae41f3d4332c2bb8a06585df0e3d2058f440), this will cause launch time delays
+[28Dec2024 19:53:18.500] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/glowstone is being run through DFU (hash 6b64c7b0ae06d906e098a965ce5687c86c5fcc9d465bc7e882ea3c029e96a7b2), this will cause launch time delays
+[28Dec2024 19:53:18.502] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/gold_blocks is being run through DFU (hash 23b8d080b6500ea194716e68c292816cace033437d1c7e73514cc55bb2d220ae), this will cause launch time delays
+[28Dec2024 19:53:18.503] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/hoglin_spawner is being run through DFU (hash f5dd51dcd1cb8a46b0a00bf2f73fcabc8515a9e72c2893c265e6ec72581cd249), this will cause launch time delays
+[28Dec2024 19:53:18.512] [Server thread/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/netherite is being run through DFU (hash ed632590a56fa500fe316b1635dab58e7696a52e5dae712b1e3a87f7c024fcb3), this will cause launch time delays
+[28Dec2024 19:53:18.699] [Server thread/DEBUG] [ModernFix/]: Structure additionalstructures:nether_building_1 is being run through DFU (hash bdbc7ded0d0d8ed7b41bb02d11d7240a7df04196cd67cc2b0224e85d14d10115), this will cause launch time delays
+[28Dec2024 19:53:18.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[28Dec2024 19:53:18.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[28Dec2024 19:53:18.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[28Dec2024 19:53:19.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[28Dec2024 19:53:19.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[28Dec2024 19:53:39.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[28Dec2024 19:54:48.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[28Dec2024 19:55:28.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:55:28.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:56:02.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[28Dec2024 19:57:18.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[28Dec2024 20:00:28.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 20:00:28.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
