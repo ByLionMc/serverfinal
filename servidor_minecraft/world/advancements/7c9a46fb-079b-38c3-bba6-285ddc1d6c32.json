@@ -14556,6 +14556,12 @@
     },
     "done": true
   },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2024-12-28 21:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-28 20:46:11 +0000"
@@ -14739,6 +14745,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-28 20:55:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2024-12-28 21:06:38 +0000"
     },
     "done": true
   },
