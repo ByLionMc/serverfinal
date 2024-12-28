@@ -2167,3 +2167,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 18:23:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [A Pair of Giants]
 [28Dec2024 18:30:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
 [28Dec2024 18:30:25.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
+[28Dec2024 18:32:39.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
+[28Dec2024 18:32:39.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game

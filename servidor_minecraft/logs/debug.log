@@ -17159,3 +17159,9 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 18:30:25.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
 [28Dec2024 18:30:28.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 18:30:28.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:32:39.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
+[28Dec2024 18:32:39.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
+[28Dec2024 18:35:28.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:35:29.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:40:28.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:40:28.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
