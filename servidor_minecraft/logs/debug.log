@@ -16460,3 +16460,12 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [28Dec2024 02:43:31.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
 [28Dec2024 02:44:07.040] [Server thread/DEBUG] [ModernFix/]: Structure additionalstructures:tomb_2 is being run through DFU (hash f1c2c8d613fba52b1e90714ef3f31a423e389f07bf258b36bf03c291f13708be), this will cause launch time delays
 [28Dec2024 02:44:10.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[28Dec2024 02:44:15.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[28Dec2024 02:44:18.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[28Dec2024 02:44:57.743] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[28Dec2024 02:47:55.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:47:56.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:48:45.718] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/EnchantmentMenu$1 (target of net/minecraft/world/Container)
+[28Dec2024 02:52:55.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[28Dec2024 02:52:55.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:52:56.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
