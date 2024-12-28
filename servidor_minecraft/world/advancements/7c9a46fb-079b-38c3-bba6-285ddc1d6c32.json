@@ -14412,9 +14412,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-28 19:19:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2024-12-28 19:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-12-28 19:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-12-28 19:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2024-12-28 19:12:20 +0000"
+    },
+    "done": true
+  },
+  "farlanders:kill_classic_enderman": {
+    "criteria": {
+      "kill_enderman": "2024-12-28 19:19:42 +0000"
     },
     "done": true
   },
