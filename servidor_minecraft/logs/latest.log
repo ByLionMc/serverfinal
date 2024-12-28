@@ -2090,3 +2090,27 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 16:05:11.564] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
 [28Dec2024 16:06:37.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [28Dec2024 16:06:39.026] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[28Dec2024 16:09:44.825] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[28Dec2024 16:11:25.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made myser444 a server operator
+[28Dec2024 16:12:21.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeferentCurve07[/127.191.128.44:47669] logged in with entity id 5315 at (6139.236766047254, 70.0, -371.10362002489245)
+[28Dec2024 16:12:21.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DeferentCurve07
+[28Dec2024 16:12:21.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DeferentCurve07
+[28Dec2024 16:12:21.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DeferentCurve07
+[28Dec2024 16:12:21.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DeferentCurve07
+[28Dec2024 16:12:21.159] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DeferentCurve07
+[28Dec2024 16:12:21.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DeferentCurve07
+[28Dec2024 16:12:21.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DeferentCurve07
+[28Dec2024 16:12:21.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
+[28Dec2024 16:12:21.323] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
+[28Dec2024 16:13:22.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[28Dec2024 16:13:29.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[28Dec2024 16:13:39.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1925, l='ServerLevel[world]', x=6646.70, y=103.94, z=-623.50] died, message: 'Librarian was slain by Zombie'
+[28Dec2024 16:13:42.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made deferentcurv07 a server operator
+[28Dec2024 16:14:00.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1924, l='ServerLevel[world]', x=6641.43, y=104.56, z=-625.63] died, message: 'Librarian was slain by Zombie'
+[28Dec2024 16:14:06.226] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Dec2024 16:14:06.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> DeferentCurve07
+[28Dec2024 16:14:09.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Dec2024 16:14:09.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07<--[HERE]
+[28Dec2024 16:14:19.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DeferentCurve07 a server operator
+[28Dec2024 16:16:31.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[28Dec2024 16:17:02.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
