@@ -14424,6 +14424,12 @@
     },
     "done": true
   },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2024-12-28 21:39:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-28 20:55:19 +0000"
@@ -14616,6 +14622,12 @@
     },
     "done": true
   },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2024-12-28 21:37:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2024-12-28 19:12:20 +0000"
@@ -14733,6 +14745,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-28 20:34:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2024-12-28 21:37:45 +0000"
     },
     "done": true
   },

@@ -2236,3 +2236,4 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 21:01:04.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
 [28Dec2024 21:19:55.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Creative Mode]
 [28Dec2024 21:22:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[28Dec2024 21:37:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Getting More From Less]
