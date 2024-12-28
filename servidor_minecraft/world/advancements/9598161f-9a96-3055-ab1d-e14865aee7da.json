@@ -8677,6 +8677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 17:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-28 16:40:49 +0000"
@@ -8731,6 +8737,18 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2024-12-28 17:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-28 17:12:44 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_lime_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:46 +0000"
@@ -8764,6 +8782,12 @@
   "blue_skies:recipes/building_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2024-12-28 16:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 17:12:44 +0000"
     },
     "done": true
   },
@@ -9202,6 +9226,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 17:12:44 +0000"
     },
     "done": true
   },
