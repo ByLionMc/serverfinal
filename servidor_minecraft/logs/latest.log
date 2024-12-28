@@ -2145,3 +2145,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 17:29:35.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6160, y=61, z=-375} BlockPos{x=6161, y=59, z=-376}
 [28Dec2024 17:29:35.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6159, y=61, z=-375} BlockPos{x=6161, y=59, z=-376}
 [28Dec2024 17:36:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
+[28Dec2024 17:47:36.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[28Dec2024 17:49:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the weather to clear]
