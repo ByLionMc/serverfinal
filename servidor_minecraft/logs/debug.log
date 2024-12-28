@@ -17709,3 +17709,11 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 19:57:18.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
 [28Dec2024 20:00:28.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 20:00:28.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 20:05:28.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 20:05:28.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 20:05:46.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[28Dec2024 20:08:11.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[28Dec2024 20:10:05.355] [Server thread/DEBUG] [ModernFix/]: Structure additionalstructures:nether_building_3 is being run through DFU (hash f0154de099cb26e69dd3b804fe43fd6e56db8dfe74b7da62091ed154527af109), this will cause launch time delays
+[28Dec2024 20:10:28.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 20:10:28.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 20:12:16.424] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
