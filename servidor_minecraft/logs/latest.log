@@ -2219,3 +2219,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 19:53:17.438] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal is no longer valid
 [28Dec2024 19:53:17.569] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
 [28Dec2024 19:53:39.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[28Dec2024 20:23:13.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=97, z=78} BlockPos{x=435, y=99, z=75}
+[28Dec2024 20:29:36.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Your First Receptacle]

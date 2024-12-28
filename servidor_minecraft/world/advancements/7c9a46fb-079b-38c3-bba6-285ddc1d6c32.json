@@ -5101,6 +5101,7 @@
       "minecraft:wither_skeleton": "2024-12-25 20:57:24 +0000",
       "minecraft:cave_spider": "2024-12-08 15:43:15 +0000",
       "minecraft:piglin": "2024-12-25 17:00:33 +0000",
+      "minecraft:enderman": "2024-12-28 20:22:59 +0000",
       "minecraft:zombie": "2024-12-08 15:35:48 +0000",
       "minecraft:zombie_villager": "2024-12-08 15:45:47 +0000"
     },
@@ -9047,6 +9048,7 @@
   },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
+      "baby_enderman": "2024-12-28 20:14:43 +0000",
       "baby_wither_skeleton": "2024-12-25 20:52:39 +0000",
       "baby_creeper": "2024-12-21 22:49:44 +0000",
       "baby_skeleton": "2024-12-25 20:28:53 +0000"
@@ -14457,6 +14459,12 @@
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2024-12-28 20:05:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2024-12-28 20:29:36 +0000"
     },
     "done": true
   },
