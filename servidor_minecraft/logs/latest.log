@@ -2123,3 +2123,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [28Dec2024 01:27:24.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> era q no tenias op
 [28Dec2024 01:28:00.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
 [28Dec2024 01:28:00.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[28Dec2024 01:33:30.158] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[28Dec2024 01:36:22.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
