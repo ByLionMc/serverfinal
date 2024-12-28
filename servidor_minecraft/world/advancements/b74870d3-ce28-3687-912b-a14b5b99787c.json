@@ -13775,6 +13775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-28 18:43:51 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_crafter": {
     "criteria": {
       "0": "2024-12-28 18:14:41 +0000"
@@ -13790,6 +13796,12 @@
   "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2024-12-28 17:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-28 18:43:51 +0000"
     },
     "done": true
   },
