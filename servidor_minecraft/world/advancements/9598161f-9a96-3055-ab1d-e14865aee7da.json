@@ -9321,6 +9321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-28 17:55:50 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_brown_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-28 16:44:46 +0000"

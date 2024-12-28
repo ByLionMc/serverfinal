@@ -2150,3 +2150,15 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 17:53:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Brass Age]
 [28Dec2024 17:55:26.843] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/crafter/MechanicalCrafterBlockEntity$Phase
 [28Dec2024 17:59:35.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[28Dec2024 18:00:33.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[28Dec2024 18:04:00.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 13000]
+[28Dec2024 18:04:10.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[28Dec2024 18:04:12.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 13000]
+[28Dec2024 18:04:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[28Dec2024 18:04:21.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 13000]
+[28Dec2024 18:04:28.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 13000]
+[28Dec2024 18:05:25.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[28Dec2024 18:05:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[28Dec2024 18:06:54.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[28Dec2024 18:06:54.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[28Dec2024 18:07:04.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [It's Cutting Edge!]

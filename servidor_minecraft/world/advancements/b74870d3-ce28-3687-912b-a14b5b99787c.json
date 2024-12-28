@@ -13805,6 +13805,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2024-12-28 17:58:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
     "criteria": {
       "has_item": "2024-12-28 17:54:08 +0000"
