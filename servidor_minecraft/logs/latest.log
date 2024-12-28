@@ -2133,3 +2133,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [28Dec2024 02:56:05.170] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
 [28Dec2024 03:31:08.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/25201, l='ServerLevel[world]', x=6600.70, y=97.00, z=-727.30] died, message: 'Nitwit was shot by carloselpillo'
 [28Dec2024 03:31:08.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Neighborhood Brawl]
+[28Dec2024 04:33:25.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[28Dec2024 04:33:25.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
