@@ -2104,3 +2104,22 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [28Dec2024 01:17:23.197] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [28Dec2024 01:21:05.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
 [28Dec2024 01:21:09.544] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[28Dec2024 01:26:16.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.136.15.22:41439] logged in with entity id 2613 at (7500.952474423895, 64.0, -223.3327849211193)
+[28Dec2024 01:26:16.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to joselete123
+[28Dec2024 01:26:16.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to joselete123
+[28Dec2024 01:26:16.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to joselete123
+[28Dec2024 01:26:16.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to joselete123
+[28Dec2024 01:26:16.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to joselete123
+[28Dec2024 01:26:16.089] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to joselete123
+[28Dec2024 01:26:16.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to joselete123
+[28Dec2024 01:26:16.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[28Dec2024 01:26:16.200] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[28Dec2024 01:26:49.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made carloselpillo a server operator
+[28Dec2024 01:26:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made joselete123 a server operator
+[28Dec2024 01:27:07.420] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[28Dec2024 01:27:10.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Dec2024 01:27:10.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> carlos ya
+[28Dec2024 01:27:18.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> buenas noches y gracias x confiar en mi
+[28Dec2024 01:27:24.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> era q no tenias op
+[28Dec2024 01:28:00.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[28Dec2024 01:28:00.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
