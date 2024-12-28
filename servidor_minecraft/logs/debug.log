@@ -16448,3 +16448,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [28Dec2024 02:27:56.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Dec2024 02:32:55.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 02:32:56.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:37:55.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:37:56.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:39:04.248] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@12db58cd for service interface com.blamejared.clumps.platform.IEventHelper
+[28Dec2024 02:39:04.248] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@6442a1c2 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[28Dec2024 02:40:21.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[28Dec2024 02:40:22.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[28Dec2024 02:41:58.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Dec2024 02:42:56.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:42:56.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:43:31.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[28Dec2024 02:44:07.040] [Server thread/DEBUG] [ModernFix/]: Structure additionalstructures:tomb_2 is being run through DFU (hash f1c2c8d613fba52b1e90714ef3f31a423e389f07bf258b36bf03c291f13708be), this will cause launch time delays
+[28Dec2024 02:44:10.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
