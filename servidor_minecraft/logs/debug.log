@@ -17623,3 +17623,22 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [28Dec2024 19:25:28.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Dec2024 19:30:28.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 19:30:28.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:33:54.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[28Dec2024 19:34:25.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Dec2024 19:34:25.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[28Dec2024 19:34:30.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[28Dec2024 19:35:00.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[28Dec2024 19:35:05.808] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming noobanidus/mods/lootr/data/SpecialChestInventory (target of net/minecraft/world/Container)
+[28Dec2024 19:35:28.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:35:29.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:35:31.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[28Dec2024 19:37:08.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[28Dec2024 19:38:16.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[28Dec2024 19:39:12.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[28Dec2024 19:39:12.013] [Server thread/DEBUG] [tombstone/]: A new grave of the player joselete123 was created at position [x:6602, y:80, z:-692, dim:minecraft:overworld]
+[28Dec2024 19:39:12.015] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[28Dec2024 19:39:12.185] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=6602, y=95, z=-697}) doesn't have enough leaves around top most log
+[28Dec2024 19:39:13.497] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
+[28Dec2024 19:40:28.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:40:29.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:41:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
