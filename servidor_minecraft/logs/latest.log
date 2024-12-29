@@ -2425,3 +2425,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 19:03:24.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set own game mode to Survival Mode]
 [29Dec2024 19:03:31.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [29Dec2024 19:04:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[29Dec2024 19:12:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 19:13:01.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 13000]
+[29Dec2024 19:13:37.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[29Dec2024 19:14:40.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Enchanter]
+[29Dec2024 19:17:07.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[29Dec2024 19:17:07.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
