@@ -2378,3 +2378,16 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 18:19:12.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to joselete123]
 [29Dec2024 18:19:51.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
 [29Dec2024 18:19:51.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
+[29Dec2024 18:26:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Enchanter]
+[29Dec2024 18:27:40.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 18:29:21.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:59135] logged in with entity id 97771 at (6126.5, 73.0, -367.5)
+[29Dec2024 18:29:21.122] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[29Dec2024 18:29:21.122] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[29Dec2024 18:29:21.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[29Dec2024 18:29:21.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[29Dec2024 18:29:21.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[29Dec2024 18:29:21.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[29Dec2024 18:29:21.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[29Dec2024 18:29:21.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[29Dec2024 18:29:21.256] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[29Dec2024 18:31:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
