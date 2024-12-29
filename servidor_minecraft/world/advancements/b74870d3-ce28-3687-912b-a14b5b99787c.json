@@ -825,6 +825,7 @@
       "woodland": "2024-12-22 21:37:52 +0000",
       "shrubland": "2024-12-26 00:48:01 +0000",
       "rocky_shrubland": "2024-12-29 20:39:24 +0000",
+      "erupting_inferno": "2024-12-29 21:33:49 +0000",
       "old_growth_woodland": "2024-12-24 14:53:56 +0000",
       "crystalline_chasm": "2024-12-22 16:01:59 +0000",
       "lavender_forest": "2024-12-21 23:50:35 +0000",
@@ -14408,6 +14409,12 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2024-12-29 21:19:29 +0000"
@@ -14420,6 +14427,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "naga": "2024-12-29 21:19:29 +0000"
@@ -14429,6 +14442,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-12-29 21:21:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2024-12-29 21:35:07 +0000"
     },
     "done": true
   },
@@ -14474,6 +14493,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2024-12-29 21:35:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_brown_wool": "2024-12-29 21:21:42 +0000"
@@ -14486,9 +14511,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2024-12-29 21:35:07 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
+    "criteria": {
+      "has_magma_block": "2024-12-29 21:36:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_sofa": {
     "criteria": {
       "has_wool": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:50 +0000"
     },
     "done": true
   },
@@ -14525,6 +14568,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-29 21:23:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:50 +0000"
     },
     "done": true
   },
