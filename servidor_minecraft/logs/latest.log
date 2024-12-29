@@ -2156,3 +2156,22 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 16:02:44.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> a
 [29Dec2024 16:02:45.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> a
 [29Dec2024 16:03:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 16:06:50.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Chest Slayer]
+[29Dec2024 16:10:14.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77bc289d[id=<null>,name=marquitosTPMS,properties={},legacy=false] (/127.9.149.75:41827) lost connection: Disconnected
+[29Dec2024 16:11:19.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> deferent
+[29Dec2024 16:11:25.384] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4474e31d[id=<null>,name=marquitosTPMS,properties={},legacy=false] (/127.9.149.75:40769) lost connection: Disconnected
+[29Dec2024 16:11:31.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> metepeo contigo a la mina
+[29Dec2024 16:12:00.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:48131] logged in with entity id 18975 at (6131.546842452317, 68.0, -366.28018264731696)
+[29Dec2024 16:12:00.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[29Dec2024 16:12:00.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[29Dec2024 16:12:00.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[29Dec2024 16:12:00.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[29Dec2024 16:12:00.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[29Dec2024 16:12:00.018] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[29Dec2024 16:12:00.018] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[29Dec2024 16:12:00.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[29Dec2024 16:12:00.153] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[29Dec2024 16:12:00.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[29Dec2024 16:12:06.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> Bienvenido myser!
+[29Dec2024 16:12:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 16:13:23.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]

@@ -14965,5 +14965,11 @@
     },
     "done": true
   },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2024-12-29 16:04:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
