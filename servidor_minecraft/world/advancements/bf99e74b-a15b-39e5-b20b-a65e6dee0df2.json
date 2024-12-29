@@ -12021,6 +12021,84 @@
     },
     "done": true
   },
+  "farlanders:kill_classic_enderman": {
+    "criteria": {
+      "kill_enderman": "2024-12-29 00:10:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-12-29 00:18:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/totem_of_undying": {
     "criteria": {
       "has_common_essence": "2024-12-29 00:46:43 +0000"
@@ -12039,57 +12117,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/red_cushion": {
-    "criteria": {
-      "has_red_cushion": "2024-12-29 00:18:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2024-12-29 00:18:32 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_bucket": {
-    "criteria": {
-      "has_item": "2024-12-29 00:55:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/red_sheet": {
-    "criteria": {
-      "has_red_sheet": "2024-12-29 00:18:32 +0000"
-    },
-    "done": true
-  },
   "mobdropsrecipes_overworld:recipes/misc/bone": {
     "criteria": {
       "has_common_essence": "2024-12-29 00:46:43 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-29 00:46:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-29 00:46:54 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/tool_box": {
-    "criteria": {
-      "has_item": "2024-12-29 00:55:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/red_cape": {
-    "criteria": {
-      "has_red_wool": "2024-12-29 00:18:32 +0000"
     },
     "done": true
   },
@@ -12105,45 +12135,15 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/red_flag": {
-    "criteria": {
-      "has_red_flag": "2024-12-29 00:18:32 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red": {
-    "criteria": {
-      "has_red_wool": "2024-12-29 00:18:32 +0000"
-    },
-    "done": true
-  },
   "mobdropsrecipes_overworld:recipes/misc/essence_into_bone": {
     "criteria": {
       "has_common_essence": "2024-12-29 00:46:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-29 00:46:54 +0000"
-    },
-    "done": true
-  },
   "mobdropsrecipes_overworld:recipes/misc/prismarine_shard": {
     "criteria": {
       "has_common_essence": "2024-12-29 00:46:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2024-12-29 00:18:32 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_red": {
-    "criteria": {
-      "has_red_wool": "2024-12-29 00:18:32 +0000"
     },
     "done": true
   },
@@ -12156,12 +12156,6 @@
   "mobdropsrecipes_overworld:recipes/misc/trident": {
     "criteria": {
       "has_common_essence": "2024-12-29 00:46:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2024-12-29 00:55:15 +0000"
     },
     "done": true
   },
@@ -12189,12 +12183,6 @@
     },
     "done": true
   },
-  "farlanders:kill_classic_enderman": {
-    "criteria": {
-      "kill_enderman": "2024-12-29 00:10:56 +0000"
-    },
-    "done": true
-  },
   "mobdropsrecipes_overworld:recipes/misc/essence_into_gunpowder": {
     "criteria": {
       "has_common_essence": "2024-12-29 00:46:43 +0000"
@@ -12213,24 +12201,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-12-29 01:02:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-29 00:18:32 +0000"
-    },
-    "done": true
-  },
-  "chiselsandbits:recipes/tools/sealant": {
-    "criteria": {
-      "has_tag_a": "2024-12-29 00:46:54 +0000"
-    },
-    "done": true
-  },
   "mobdropsrecipes_overworld:recipes/misc/prismarine_crystals": {
     "criteria": {
       "has_common_essence": "2024-12-29 00:46:43 +0000"
@@ -12243,9 +12213,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "mobdropsrecipes_overworld:recipes/misc/phantom_membrane": {
     "criteria": {
-      "has_red_wool": "2024-12-29 00:18:32 +0000"
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
     },
     "done": true
   },
@@ -12261,33 +12279,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/food_press": {
-    "criteria": {
-      "has_hopper": "2024-12-29 01:05:46 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
       "has_item": "2024-12-29 00:55:15 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed_by": "2024-12-29 00:18:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-29 00:46:54 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/phantom_membrane": {
-    "criteria": {
-      "has_common_essence": "2024-12-29 00:46:43 +0000"
     },
     "done": true
   },
@@ -12297,9 +12291,15 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/red_wool_slab": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "has_red_wool": "2024-12-29 00:18:32 +0000"
+      "killed_by": "2024-12-29 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2024-12-29 01:05:46 +0000"
     },
     "done": true
   },
