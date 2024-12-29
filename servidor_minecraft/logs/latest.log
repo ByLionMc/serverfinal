@@ -2482,3 +2482,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 19:56:29.026] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
 [29Dec2024 19:57:31.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Cachalot Whale
 [29Dec2024 19:57:31.748] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[29Dec2024 19:58:39.355] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[29Dec2024 19:58:39.358] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[29Dec2024 19:58:39.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[29Dec2024 19:59:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 20:02:17.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 20:02:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to marquitosTPMS]
