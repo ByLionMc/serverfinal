@@ -124,3 +124,5 @@
 [29Dec2024 01:16:02.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [29Dec2024 01:17:00.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [29Dec2024 01:23:15.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 01:38:15.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[29Dec2024 01:38:15.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
