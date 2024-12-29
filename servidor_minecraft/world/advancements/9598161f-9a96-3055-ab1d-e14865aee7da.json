@@ -12024,15 +12024,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/beef_jerky": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_beef": "2024-12-29 20:15:57 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
-    "criteria": {
-      "has_obsidian": "2024-12-29 20:15:05 +0000"
+      "has_lilac": "2024-12-29 20:00:15 +0000"
     },
     "done": true
   },
@@ -12048,15 +12042,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-29 20:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-29 20:02:14 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-12-29 20:15:05 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/obsidian_slab": {
     "criteria": {
       "has_obsidian": "2024-12-29 20:15:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_salmon": "2024-12-29 20:02:14 +0000"
+      "obsidian": "2024-12-29 20:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-29 20:15:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2024-12-29 20:15:57 +0000"
     },
     "done": true
   },
@@ -12084,12 +12108,6 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-29 20:15:05 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/hamburger": {
     "criteria": {
       "has_beef": "2024-12-29 20:15:57 +0000"
@@ -12102,33 +12120,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-12-29 20:00:15 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2024-12-29 20:15:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-29 20:02:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
     "criteria": {
       "has_beef": "2024-12-29 20:15:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-12-29 20:15:05 +0000"
     },
     "done": true
   },

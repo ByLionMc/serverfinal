@@ -10184,7 +10184,9 @@
   },
   "croptopia:gather_all": {
     "criteria": {
-      "cauliflower_seed": "2024-12-26 20:58:49 +0000"
+      "cauliflower_seed": "2024-12-26 20:58:49 +0000",
+      "hops_seed": "2024-12-29 21:43:24 +0000",
+      "tomatillo_seed": "2024-12-29 21:43:52 +0000"
     },
     "done": false
   },
@@ -10196,6 +10198,7 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "tomatillo_seed": "2024-12-29 21:43:52 +0000",
       "cauliflower_seed": "2024-12-26 20:58:49 +0000"
     },
     "done": false
@@ -12935,6 +12938,12 @@
       "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "hops_seed": "2024-12-29 21:43:24 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
