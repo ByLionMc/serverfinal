@@ -12261,6 +12261,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2024-12-29 01:05:46 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
       "has_item": "2024-12-29 00:55:15 +0000"
