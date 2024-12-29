@@ -2488,3 +2488,29 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 19:59:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
 [29Dec2024 20:02:17.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [29Dec2024 20:02:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to marquitosTPMS]
+[29Dec2024 20:10:15.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6641, y=124, z=-736} BlockPos{x=6629, y=123, z=-718}
+[29Dec2024 20:10:34.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:49581] logged in with entity id 142950 at (6608.5, 95.0, -711.5)
+[29Dec2024 20:10:34.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to carloselpillo
+[29Dec2024 20:10:34.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to carloselpillo
+[29Dec2024 20:10:34.792] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to carloselpillo
+[29Dec2024 20:10:34.792] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to carloselpillo
+[29Dec2024 20:10:34.793] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to carloselpillo
+[29Dec2024 20:10:34.795] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to carloselpillo
+[29Dec2024 20:10:34.795] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to carloselpillo
+[29Dec2024 20:10:34.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[29Dec2024 20:10:34.927] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[29Dec2024 20:10:39.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> benvenute!
+[29Dec2024 20:11:21.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 20:11:21.289] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 20:11:38.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 20:11:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
+[29Dec2024 20:12:31.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 20:13:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 20:14:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 20:14:34.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 20:14:37.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! 0.19999998807907104,19.005228310245656,0.11052498920685139
+[29Dec2024 20:15:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Ice Bucket Challenge]
+[29Dec2024 20:18:02.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Fanmade Enderman
+[29Dec2024 20:18:02.563] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 20:18:24.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 20:18:24.755] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved

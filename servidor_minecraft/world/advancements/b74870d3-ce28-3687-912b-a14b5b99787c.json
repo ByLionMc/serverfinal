@@ -14116,37 +14116,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-12-29 04:39:23 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_all": {
-    "criteria": {
-      "tomatillo_seed": "2024-12-29 04:51:51 +0000",
-      "olive_seed": "2024-12-29 04:37:02 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/tomatillo_seed": {
-    "criteria": {
-      "has_tomatillo": "2024-12-29 04:51:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 04:29:06 +0000"
-    },
-    "done": true
-  },
-  "croptopia:getseeds": {
-    "criteria": {
-      "has_seeds": "2024-12-29 04:37:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
@@ -14165,12 +14134,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/olive_oil": {
-    "criteria": {
-      "has_olives": "2024-12-29 04:37:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
@@ -14183,63 +14146,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/food/turtle_soup": {
-    "criteria": {
-      "has_items": "2024-12-29 04:38:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/cucumber_salad": {
-    "criteria": {
-      "has_the_recipe": "2024-12-29 04:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-12-29 04:39:23 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/caesar_salad": {
-    "criteria": {
-      "has_olive": "2024-12-29 04:37:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/surpreme_pizza": {
-    "criteria": {
-      "has_olive": "2024-12-29 04:37:02 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_savanna": {
-    "criteria": {
-      "olive_seed": "2024-12-29 04:37:02 +0000"
-    },
-    "done": false
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2024-12-29 04:42:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-29 04:42:09 +0000"
     },
     "done": true
   },
@@ -14261,57 +14176,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/olive_seed": {
-    "criteria": {
-      "has_olive": "2024-12-29 04:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-12-29 04:42:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
     },
     "done": true
   },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "tomatillo_seed": "2024-12-29 04:51:51 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/melon_juice": {
-    "criteria": {
-      "has_melon": "2024-12-29 04:39:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2024-12-29 04:39:23 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chocolate": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-29 04:42:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2024-12-29 04:40:53 +0000"
     },
     "done": true
   },
@@ -14333,21 +14206,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/endumium_block": {
-    "criteria": {
-      "has_endumium_crystal": "2024-12-29 04:29:32 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/wooden_sword_repairing": {
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
-      "has_wooden_sword": "2024-12-29 04:31:51 +0000"
+      "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 04:29:06 +0000"
     },
     "done": true
   },
@@ -14357,17 +14230,144 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/endumium_block": {
+    "criteria": {
+      "has_endumium_crystal": "2024-12-29 04:29:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2024-12-29 04:31:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "tomatillo_seed": "2024-12-29 04:51:51 +0000",
+      "olive_seed": "2024-12-29 04:37:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-29 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/olive_oil": {
+    "criteria": {
+      "has_olives": "2024-12-29 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cucumber_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-29 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_olive": "2024-12-29 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/surpreme_pizza": {
+    "criteria": {
+      "has_olive": "2024-12-29 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "olive_seed": "2024-12-29 04:37:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/olive_seed": {
+    "criteria": {
+      "has_olive": "2024-12-29 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/turtle_soup": {
+    "criteria": {
+      "has_items": "2024-12-29 04:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-29 04:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-29 04:39:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2024-12-29 04:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-29 04:39:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-29 04:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-29 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-29 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-29 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-29 04:42:24 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-29 04:42:24 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+  "croptopia:recipes/misc/tomatillo_seed": {
     "criteria": {
-      "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
+      "has_tomatillo": "2024-12-29 04:51:51 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomatillo_seed": "2024-12-29 04:51:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
