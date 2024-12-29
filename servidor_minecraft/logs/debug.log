@@ -23426,3 +23426,39 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 20:35:46.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 20:35:46.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 20:39:02.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 20:40:46.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 20:40:46.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 20:40:58.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [It's Cutting Edge!]
+[29Dec2024 20:42:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Set the time to 1000]
+[29Dec2024 20:43:20.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 20:45:46.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 20:45:46.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 20:46:42.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved wrongly!
+[29Dec2024 20:48:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 20:48:37.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_1
+[29Dec2024 20:48:38.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Dec2024 20:48:38.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Dec2024 20:48:38.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[29Dec2024 20:48:38.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[29Dec2024 20:48:38.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/watch_tower
+[29Dec2024 20:48:38.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[29Dec2024 20:48:38.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
+[29Dec2024 20:48:40.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[29Dec2024 20:49:00.222] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[29Dec2024 20:49:00.227] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[29Dec2024 20:49:00.227] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
+[29Dec2024 20:49:00.231] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[29Dec2024 20:49:00.235] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[29Dec2024 20:49:00.236] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[29Dec2024 20:49:00.243] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[29Dec2024 20:49:00.246] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[29Dec2024 20:49:00.249] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[29Dec2024 20:49:00.252] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[29Dec2024 20:49:00.255] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[29Dec2024 20:49:00.258] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[29Dec2024 20:49:00.262] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[29Dec2024 20:49:00.266] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[29Dec2024 20:49:08.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 20:49:08.050] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:5850, y:75, z:-121, dim:minecraft:overworld]
+[29Dec2024 20:49:08.055] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 20:49:09.167] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage

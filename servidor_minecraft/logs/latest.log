@@ -2528,3 +2528,10 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 20:34:22.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [29Dec2024 20:34:27.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Trapped Inside]
 [29Dec2024 20:39:02.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 20:40:58.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [It's Cutting Edge!]
+[29Dec2024 20:42:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Set the time to 1000]
+[29Dec2024 20:43:20.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 20:46:42.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved wrongly!
+[29Dec2024 20:48:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 20:49:08.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 20:49:08.055] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
