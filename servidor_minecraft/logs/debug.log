@@ -23493,3 +23493,303 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 21:10:08.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
 [29Dec2024 21:10:08.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
 [29Dec2024 21:10:08.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[29Dec2024 21:10:46.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:10:46.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:10:49.190] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[29Dec2024 21:10:49.250] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[29Dec2024 21:10:49.820] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[29Dec2024 21:10:59.761] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
+[29Dec2024 21:10:59.767] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[29Dec2024 21:10:59.777] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[29Dec2024 21:10:59.781] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[29Dec2024 21:10:59.784] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[29Dec2024 21:10:59.788] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[29Dec2024 21:10:59.791] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[29Dec2024 21:10:59.798] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[29Dec2024 21:10:59.801] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[29Dec2024 21:10:59.804] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[29Dec2024 21:11:04.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[29Dec2024 21:11:04.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[29Dec2024 21:11:12.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[29Dec2024 21:11:15.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[29Dec2024 21:11:34.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/root
+[29Dec2024 21:11:34.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/house_elder_large
+[29Dec2024 21:11:34.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/golem
+[29Dec2024 21:11:34.687] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[29Dec2024 21:11:43.308] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[29Dec2024 21:11:43.313] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[29Dec2024 21:11:43.318] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[29Dec2024 21:11:43.322] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[29Dec2024 21:11:53.310] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[29Dec2024 21:11:53.314] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[29Dec2024 21:11:53.318] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[29Dec2024 21:11:53.322] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[29Dec2024 21:11:53.326] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[29Dec2024 21:11:53.329] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[29Dec2024 21:11:53.334] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[29Dec2024 21:11:53.338] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[29Dec2024 21:12:00.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[29Dec2024 21:12:04.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[29Dec2024 21:12:04.145] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[29Dec2024 21:12:04.151] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:12:04.151] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:12:04.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[29Dec2024 21:12:04.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/tower/whole
+[29Dec2024 21:12:04.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gilded_blackstone
+[29Dec2024 21:12:04.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/bridge_chest
+[29Dec2024 21:12:04.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/treasure_chest
+[29Dec2024 21:12:04.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/normal
+[29Dec2024 21:12:04.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/piglins
+[29Dec2024 21:12:04.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/nether_wart
+[29Dec2024 21:12:04.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/blaze_spawner
+[29Dec2024 21:12:04.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/ruined
+[29Dec2024 21:12:04.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/gold
+[29Dec2024 21:12:04.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/chisel
+[29Dec2024 21:12:04.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/glowstone
+[29Dec2024 21:12:04.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gold_blocks
+[29Dec2024 21:12:04.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/hoglin_spawner
+[29Dec2024 21:12:04.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/netherite
+[29Dec2024 21:12:04.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_building_1
+[29Dec2024 21:12:04.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[29Dec2024 21:12:05.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[29Dec2024 21:12:05.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[29Dec2024 21:12:05.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[29Dec2024 21:12:06.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[29Dec2024 21:12:21.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:12:27.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[29Dec2024 21:12:27.905] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=817, y=70, z=-82} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[29Dec2024 21:12:27.906] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=817, y=70, z=-82} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[29Dec2024 21:12:30.084] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_nether_portal
+[29Dec2024 21:12:30.158] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wither_skull
+[29Dec2024 21:12:30.165] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:skeleton_skull
+[29Dec2024 21:12:30.170] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[29Dec2024 21:12:30.177] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[29Dec2024 21:12:37.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Dec2024 21:12:39.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[29Dec2024 21:12:39.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[29Dec2024 21:12:41.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[29Dec2024 21:12:53.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/centers/watch_tower
+[29Dec2024 21:12:53.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/streets/path_4
+[29Dec2024 21:12:53.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/streets/path_2
+[29Dec2024 21:12:53.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/house_3
+[29Dec2024 21:12:53.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/house_special_1
+[29Dec2024 21:12:53.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/house_2
+[29Dec2024 21:12:53.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/house_1
+[29Dec2024 21:12:53.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/house_special_2
+[29Dec2024 21:12:54.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[29Dec2024 21:12:54.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 21:13:42.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[29Dec2024 21:13:46.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[29Dec2024 21:13:46.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[29Dec2024 21:13:46.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[29Dec2024 21:13:46.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Dec2024 21:13:46.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Dec2024 21:13:46.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[29Dec2024 21:13:46.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[29Dec2024 21:13:46.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[29Dec2024 21:13:55.463] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/root
+[29Dec2024 21:13:55.463] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/golem
+[29Dec2024 21:13:55.474] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/house_elder_large
+[29Dec2024 21:13:55.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_1
+[29Dec2024 21:13:56.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[29Dec2024 21:13:59.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[29Dec2024 21:14:02.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Dec2024 21:14:02.244] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[29Dec2024 21:14:02.244] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[29Dec2024 21:14:02.271] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[29Dec2024 21:14:08.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Dec2024 21:14:08.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[29Dec2024 21:14:09.407] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_2
+[29Dec2024 21:14:09.411] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_1
+[29Dec2024 21:14:15.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5086ms or 101 ticks behind
+[29Dec2024 21:14:16.536] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_2
+[29Dec2024 21:14:16.540] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_3
+[29Dec2024 21:14:16.544] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_1
+[29Dec2024 21:14:16.546] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
+[29Dec2024 21:14:16.549] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
+[29Dec2024 21:14:16.595] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_nether_portal
+[29Dec2024 21:14:17.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:14:20.146] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[29Dec2024 21:14:20.152] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[29Dec2024 21:14:20.157] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[29Dec2024 21:14:20.163] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[29Dec2024 21:14:20.169] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[29Dec2024 21:14:20.174] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[29Dec2024 21:14:20.179] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[29Dec2024 21:14:20.188] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[29Dec2024 21:14:22.972] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[29Dec2024 21:14:22.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[29Dec2024 21:14:22.986] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_1
+[29Dec2024 21:14:22.999] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[29Dec2024 21:14:23.007] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[29Dec2024 21:14:25.734] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[29Dec2024 21:14:25.738] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[29Dec2024 21:14:25.741] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[29Dec2024 21:14:25.744] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[29Dec2024 21:14:25.748] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[29Dec2024 21:14:25.751] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[29Dec2024 21:14:25.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[29Dec2024 21:14:25.765] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[29Dec2024 21:14:30.130] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[29Dec2024 21:14:31.688] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[29Dec2024 21:14:39.774] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:maya_temple is being run through DFU (hash 50588d06e185afbc561334bac9002646b16421535aa8c80f63f49534aa3e0145), this will cause launch time delays
+[29Dec2024 21:14:57.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[29Dec2024 21:14:57.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/watch_tower
+[29Dec2024 21:14:57.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
+[29Dec2024 21:14:59.094] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands]] from pos BlockPos{x=5301, y=70, z=133}
+[29Dec2024 21:15:02.391] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Dec2024 21:15:03.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind
+[29Dec2024 21:15:03.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Where Is The Stone Pen?]
+[29Dec2024 21:15:03.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! -0.08009359969219076,10.141499866857366,0.007690235734628459
+[29Dec2024 21:15:05.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5301, y=70, z=133} but found not block entity block Block{minecraft:air} at location
+[29Dec2024 21:15:05.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=5301, y=70, z=133}
+[29Dec2024 21:15:08.288] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[29Dec2024 21:15:08.294] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[29Dec2024 21:15:08.300] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[29Dec2024 21:15:08.306] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[29Dec2024 21:15:08.312] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[29Dec2024 21:15:08.317] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_3
+[29Dec2024 21:15:08.323] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[29Dec2024 21:15:08.329] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[29Dec2024 21:15:08.335] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[29Dec2024 21:15:08.341] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[29Dec2024 21:15:08.346] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[29Dec2024 21:15:08.352] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[29Dec2024 21:15:08.357] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[29Dec2024 21:15:08.363] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[29Dec2024 21:15:08.369] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[29Dec2024 21:15:08.374] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[29Dec2024 21:15:08.381] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[29Dec2024 21:15:08.387] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[29Dec2024 21:15:22.891] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
+[29Dec2024 21:15:22.898] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[29Dec2024 21:15:25.273] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=1, z=149}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.274] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=1, z=150}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.274] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=1, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.274] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=1, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.275] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=1, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.275] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=1, z=154}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.275] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=1, z=155}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.275] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=0, z=148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.275] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=0, z=149}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.276] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-1, z=149}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.276] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=1, z=150}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.276] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=0, z=150}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.276] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-1, z=150}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.276] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=1, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.276] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=0, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.277] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-1, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.277] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-2, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.277] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-3, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.277] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=1, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.277] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=0, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.277] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-1, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.277] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-2, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.277] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-3, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.278] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=1, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.278] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=0, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.278] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-1, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.278] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-2, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.280] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=1, z=154}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.281] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=0, z=154}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.281] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=-1, z=154}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.282] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5232, y=0, z=155}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.282] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5234, y=1, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.282] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=0, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.283] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=-1, z=151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.283] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5234, y=1, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.283] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=0, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.283] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=-1, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.284] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5234, y=1, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.284] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=0, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.284] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=-1, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.284] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5233, y=0, z=154}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.285] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5234, y=0, z=152}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:25.285] [Worker-Main-430/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [327, 9], pos: BlockPos{x=5234, y=0, z=153}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Dec2024 21:15:55.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:15:55.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:15:55.655] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[29Dec2024 21:15:55.659] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[29Dec2024 21:15:55.663] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[29Dec2024 21:15:55.670] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[29Dec2024 21:16:07.480] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[29Dec2024 21:16:11.169] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[29Dec2024 21:16:11.182] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
+[29Dec2024 21:16:11.188] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[29Dec2024 21:16:11.431] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[29Dec2024 21:16:17.993] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[29Dec2024 21:16:17.999] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[29Dec2024 21:16:18.003] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[29Dec2024 21:16:18.009] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[29Dec2024 21:16:21.009] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_2
+[29Dec2024 21:16:21.012] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_3
+[29Dec2024 21:16:21.015] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_1
+[29Dec2024 21:16:23.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[29Dec2024 21:16:37.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 21:16:38.074] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ruin_1
+[29Dec2024 21:16:38.081] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_ruin_1
+[29Dec2024 21:16:43.111] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[29Dec2024 21:16:43.116] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[29Dec2024 21:16:46.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:16:55.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [This Must be a Sign!]
+[29Dec2024 21:16:56.434] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[29Dec2024 21:16:56.441] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[29Dec2024 21:17:08.345] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_1
+[29Dec2024 21:17:08.352] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_2
+[29Dec2024 21:17:12.566] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[29Dec2024 21:17:12.684] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[29Dec2024 21:17:18.809] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[29Dec2024 21:17:20.268] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[29Dec2024 21:17:20.272] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[29Dec2024 21:17:20.276] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[29Dec2024 21:17:20.280] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_2
+[29Dec2024 21:17:20.284] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[29Dec2024 21:17:20.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[29Dec2024 21:17:23.012] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[29Dec2024 21:17:23.016] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[29Dec2024 21:17:23.020] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[29Dec2024 21:17:23.023] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[29Dec2024 21:17:23.136] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[29Dec2024 21:17:23.142] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[29Dec2024 21:17:23.147] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[29Dec2024 21:17:23.152] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[29Dec2024 21:17:23.157] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[29Dec2024 21:17:23.162] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[29Dec2024 21:17:23.162] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[29Dec2024 21:17:23.163] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[29Dec2024 21:17:23.163] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[29Dec2024 21:17:23.168] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[29Dec2024 21:17:23.173] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[29Dec2024 21:17:23.179] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[29Dec2024 21:17:29.496] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[29Dec2024 21:17:29.528] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[29Dec2024 21:17:29.534] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[29Dec2024 21:17:30.860] [Worker-Main-430/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
+[29Dec2024 21:17:31.296] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[29Dec2024 21:17:31.419] [Worker-Main-430/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[29Dec2024 21:17:31.872] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for joselete123 at BlockPos{x=52324, y=5, z=-6072}
+[29Dec2024 21:17:32.092] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=6553, y=69, z=-762}
+[29Dec2024 21:17:32.098] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=52324, y=5, z=-6071}
+[29Dec2024 21:17:32.099] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=6553, y=69, z=-763}
+[29Dec2024 21:17:32.099] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=6553, y=69, z=-762}
+[29Dec2024 21:17:32.099] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=6554, y=69, z=-763}
+[29Dec2024 21:17:32.099] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=6554, y=69, z=-762}
+[29Dec2024 21:17:32.104] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:17:32.104] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:17:33.551] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=52324, y=5, z=-6071}
+[29Dec2024 21:17:33.555] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:17:33.555] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:17:33.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4121ms or 82 ticks behind
+[29Dec2024 21:17:33.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! 45771.349925667615,-63.92159999847412,-5310.984435667264
+[29Dec2024 21:17:45.611] [Worker-Main-430/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
+[29Dec2024 21:17:55.834] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:17:55.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to carloselpillo]
+[29Dec2024 21:19:01.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 21:19:10.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:19:15.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 21:19:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:19:29.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Time To Even The Scales]
+[29Dec2024 21:19:29.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Silence of the Forest]
+[29Dec2024 21:19:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [Time To Even The Scales]
+[29Dec2024 21:19:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Time To Even The Scales]
+[29Dec2024 21:20:10.759] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
