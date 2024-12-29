@@ -14124,9 +14124,16 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "tomatillo_seed": "2024-12-29 04:51:51 +0000",
       "olive_seed": "2024-12-29 04:37:02 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/misc/tomatillo_seed": {
+    "criteria": {
+      "has_tomatillo": "2024-12-29 04:51:51 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
@@ -14271,6 +14278,12 @@
       "has_stone_types_crimsite": "2024-12-29 04:20:22 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomatillo_seed": "2024-12-29 04:51:51 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {

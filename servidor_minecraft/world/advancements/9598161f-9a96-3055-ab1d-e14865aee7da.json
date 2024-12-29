@@ -10131,21 +10131,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/bluebright_spear": {
+  "farlanders:kill_classic_enderman": {
     "criteria": {
-      "has_item": "2024-12-29 00:55:56 +0000"
+      "kill_enderman": "2024-12-29 00:28:05 +0000"
     },
     "done": true
   },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2024-12-29 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/dusk_spear": {
-    "criteria": {
-      "has_item": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },
@@ -10162,21 +10156,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2024-12-29 00:55:56 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_the_recipe": "2024-12-29 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/zeal_lighter": {
-    "criteria": {
-      "has_item": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },
@@ -10192,15 +10174,51 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/maple_spear": {
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-29 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2024-12-29 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-29 00:51:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },
-  "farlanders:kill_classic_enderman": {
+  "blue_skies:recipes/combat/dusk_spear": {
     "criteria": {
-      "kill_enderman": "2024-12-29 00:28:05 +0000"
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },
@@ -10222,33 +10240,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/caramel_from_smoking_sugar": {
-    "criteria": {
-      "has_sugar": "2024-12-29 00:50:00 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/misc/moonstone_from_shard": {
     "criteria": {
       "has_item": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/nougat": {
-    "criteria": {
-      "has_sugar": "2024-12-29 00:50:00 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/starlit_spear": {
     "criteria": {
       "has_item": "2024-12-29 00:55:56 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2024-12-29 00:51:43 +0000"
     },
     "done": true
   },
