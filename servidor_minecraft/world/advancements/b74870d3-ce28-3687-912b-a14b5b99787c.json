@@ -14009,6 +14009,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2024-12-29 01:37:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-29 01:28:24 +0000"
