@@ -21614,3 +21614,51 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 18:45:50.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
 [29Dec2024 18:45:51.249] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
 [29Dec2024 18:47:03.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[29Dec2024 18:47:39.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=833, y=53, z=78} BlockPos{x=833, y=52, z=77}
+[29Dec2024 18:48:13.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 tried to swim in lava
+[29Dec2024 18:48:13.684] [Server thread/DEBUG] [tombstone/]: A new grave of the player myser444 was created at position [x:818, y:35, z:86, dim:minecraft:the_nether]
+[29Dec2024 18:48:13.686] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[29Dec2024 18:48:15.121] [Server thread/DEBUG] [twilightforest/]: Player myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2) respawned and received items held in storage
+[29Dec2024 18:48:21.570] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[29Dec2024 18:48:21.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[29Dec2024 18:48:50.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 burned to death
+[29Dec2024 18:48:50.538] [Server thread/DEBUG] [tombstone/]: A new grave of the player myser444 was created at position [x:810, y:36, z:105, dim:minecraft:the_nether]
+[29Dec2024 18:48:50.541] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[29Dec2024 18:48:52.302] [Server thread/DEBUG] [twilightforest/]: Player myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2) respawned and received items held in storage
+[29Dec2024 18:48:58.463] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[29Dec2024 18:50:46.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 18:50:46.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 18:51:10.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
+[29Dec2024 18:51:10.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
+[29Dec2024 18:52:33.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[29Dec2024 18:53:46.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[29Dec2024 18:53:46.793] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[29Dec2024 18:53:46.794] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[29Dec2024 18:53:46.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[29Dec2024 18:53:46.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Dec2024 18:53:47.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[29Dec2024 18:53:48.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[29Dec2024 18:53:48.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[29Dec2024 18:53:48.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Dec2024 18:53:49.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[29Dec2024 18:53:50.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[29Dec2024 18:53:50.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[29Dec2024 18:53:51.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[29Dec2024 18:53:51.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[29Dec2024 18:53:51.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[29Dec2024 18:53:51.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Dec2024 18:53:51.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[29Dec2024 18:53:54.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 18:54:41.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[29Dec2024 18:54:49.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[29Dec2024 18:54:49.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[29Dec2024 18:55:23.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[29Dec2024 18:55:23.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[29Dec2024 18:55:24.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[29Dec2024 18:55:24.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[29Dec2024 18:55:24.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[29Dec2024 18:55:24.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[29Dec2024 18:55:25.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Dec2024 18:55:46.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 18:55:46.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 18:57:31.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6612, y=125, z=-800} BlockPos{x=6612, y=123, z=-799}
