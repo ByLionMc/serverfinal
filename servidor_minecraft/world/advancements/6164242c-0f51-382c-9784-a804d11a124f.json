@@ -7803,6 +7803,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-29 20:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2024-12-29 20:04:16 +0000"
@@ -7818,6 +7824,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2024-12-29 20:02:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-29 20:52:19 +0000"
     },
     "done": true
   },
@@ -7923,6 +7935,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2024-12-29 20:50:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-29 20:50:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-29 20:02:17 +0000",
@@ -7948,6 +7972,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-29 20:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-29 20:52:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-29 20:50:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-29 20:02:17 +0000"
@@ -7969,6 +8011,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2024-12-29 20:04:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-29 20:50:24 +0000"
     },
     "done": true
   },
@@ -8095,6 +8143,12 @@
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2024-12-29 20:18:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-29 20:50:24 +0000"
     },
     "done": true
   },
@@ -8260,15 +8314,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-29 20:50:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-29 20:50:24 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2024-12-29 19:57:33 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2024-12-29 20:50:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_pillar_trim": {
     "criteria": {
       "has_cherry_pillar_trim": "2024-12-29 20:04:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-12-29 20:50:24 +0000"
     },
     "done": true
   },
