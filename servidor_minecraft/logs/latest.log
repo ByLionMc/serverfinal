@@ -2336,3 +2336,40 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 18:04:06.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
 [29Dec2024 18:04:07.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
 [29Dec2024 18:05:41.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Cover Me with Diamonds]
+[29Dec2024 18:07:48.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[29Dec2024 18:07:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:51.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:51.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:51.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:52.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:52.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:52.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:52.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:53.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:53.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 18:07:53.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A<--[HERE]
+[29Dec2024 18:07:53.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 18:07:53.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A<--[HERE]
+[29Dec2024 18:07:54.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 18:07:54.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A<--[HERE]
+[29Dec2024 18:07:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 18:07:54.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A<--[HERE]
+[29Dec2024 18:07:55.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:07:56.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 18:07:56.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A<--[HERE]
+[29Dec2024 18:07:56.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to marquitosTPMS: El mundo es el núcleo de la fortuna y la desgracia.
+[29Dec2024 18:10:55.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
+[29Dec2024 18:10:55.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
+[29Dec2024 18:15:21.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeferentCurve07[/127.191.128.44:47037] logged in with entity id 89000 at (5857.215524315729, -19.0, 744.4286255389599)
+[29Dec2024 18:15:21.830] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DeferentCurve07
+[29Dec2024 18:15:21.830] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DeferentCurve07
+[29Dec2024 18:15:21.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DeferentCurve07
+[29Dec2024 18:15:21.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DeferentCurve07
+[29Dec2024 18:15:21.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DeferentCurve07
+[29Dec2024 18:15:21.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DeferentCurve07
+[29Dec2024 18:15:21.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DeferentCurve07
+[29Dec2024 18:15:21.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
+[29Dec2024 18:15:22.000] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
+[29Dec2024 18:16:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to marquitosTPMS]
