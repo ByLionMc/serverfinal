@@ -8086,6 +8086,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-29 20:18:18 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cherry": {
     "criteria": {
       "has_planks": "2024-12-29 20:02:17 +0000"
