@@ -825,10 +825,12 @@
       "woodland": "2024-12-26 01:16:14 +0000",
       "shrubland": "2024-12-27 15:52:37 +0000",
       "rocky_shrubland": "2024-12-28 17:55:04 +0000",
+      "highland": "2024-12-29 00:55:40 +0000",
       "clover_patch": "2024-12-29 00:55:04 +0000",
       "old_growth_woodland": "2024-12-27 16:26:56 +0000",
       "mediterranean_forest": "2024-12-26 00:20:53 +0000",
       "spider_nest": "2024-12-26 00:21:03 +0000",
+      "volcanic_plains": "2024-12-29 00:59:23 +0000",
       "grassland": "2024-12-29 00:15:43 +0000",
       "rainforest": "2024-12-29 00:15:42 +0000"
     },
@@ -10129,9 +10131,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2024-12-29 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },
@@ -10148,9 +10162,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_the_recipe": "2024-12-29 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },
@@ -10166,9 +10192,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
   "farlanders:kill_classic_enderman": {
     "criteria": {
       "kill_enderman": "2024-12-29 00:28:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },
@@ -10178,15 +10228,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_sugar": "2024-12-29 00:50:00 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2024-12-29 00:51:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2024-12-29 00:55:56 +0000"
     },
     "done": true
   },

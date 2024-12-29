@@ -89,3 +89,22 @@
 [29Dec2024 00:55:04.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
 [29Dec2024 00:55:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [A Little Hot Rod Red]
 [29Dec2024 00:55:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Light Up The World!]
+[29Dec2024 00:58:37.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 01:00:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> chavalesd
+[29Dec2024 01:00:41.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> di
+[29Dec2024 01:00:46.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> me he cargado una granja x culpa de mi pico con eficiencia 4
+[29Dec2024 01:00:49.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> no os encanteis las cosas
+[29Dec2024 01:01:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 01:01:40.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 01:01:47.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6613, y=125, z=-734} BlockPos{x=6614, y=125, z=-735}
+[29Dec2024 01:01:47.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6613, y=125, z=-734} BlockPos{x=6614, y=125, z=-735}
+[29Dec2024 01:02:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Chompy]
+[29Dec2024 01:02:51.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 01:03:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[29Dec2024 01:03:00.228] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[29Dec2024 01:03:13.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 01:03:54.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[29Dec2024 01:03:54.176] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[29Dec2024 01:05:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 01:05:04.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 01:05:04.645] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
