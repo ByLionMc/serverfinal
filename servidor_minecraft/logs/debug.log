@@ -16415,3 +16415,29 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 15:41:54.362] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [29Dec2024 15:41:54.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> gay
 [29Dec2024 15:41:59.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> q mi defe
+[29Dec2024 15:43:07.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/ServerPropertyType
+[29Dec2024 15:44:02.043] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@6bab35ab for service interface com.blamejared.clumps.platform.IEventHelper
+[29Dec2024 15:44:02.044] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@304103b8 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[29Dec2024 15:44:27.642] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[29Dec2024 15:44:27.642] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[29Dec2024 15:44:50.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_1
+[29Dec2024 15:45:13.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 15:45:13.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 15:45:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> jose ven
+[29Dec2024 15:45:59.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> tpeate
+[29Dec2024 15:46:05.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to DeferentCurve07]
+[29Dec2024 15:46:06.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[29Dec2024 15:46:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> eso que es
+[29Dec2024 15:46:18.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> q pasa
+[29Dec2024 15:46:37.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> ya te puedes ir
+[29Dec2024 15:46:43.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> pero estan con las paredes
+[29Dec2024 15:47:34.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[29Dec2024 15:47:37.916] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:illager_house_1 is being run through DFU (hash 7f1a0e2d1780d66e30fb678c733389e6a5c52ea418dd7647316fa2134a215633), this will cause launch time delays
+[29Dec2024 15:48:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
+[29Dec2024 15:49:06.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
+[29Dec2024 15:49:06.432] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
+[29Dec2024 15:49:26.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> arriba
+[29Dec2024 15:49:30.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> con el ascensor
+[29Dec2024 15:49:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> no puedo hablar con el protector por eso lo hago por aqui
+[29Dec2024 15:50:13.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 15:50:13.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
