@@ -16060,3 +16060,85 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 04:04:44.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 04:04:44.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 04:07:36.661] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/VanillaHopperItemHandler (target of net/minecraftforge/items/IItemHandler)
+[29Dec2024 04:08:10.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[29Dec2024 04:09:34.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[29Dec2024 04:09:44.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 04:09:44.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 04:12:35.770] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@2eafb91b for service interface com.blamejared.clumps.platform.IEventHelper
+[29Dec2024 04:12:35.771] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@3f2bf26b for service interface com.blamejared.clumps.platform.IPlatformHelper
+[29Dec2024 04:14:44.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 04:14:44.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 04:19:32.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 04:19:32.169] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6536, y:-3, z:-734, dim:minecraft:overworld]
+[29Dec2024 04:19:32.175] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:19:33.750] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[29Dec2024 04:19:44.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 04:19:44.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 04:20:22.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[29Dec2024 04:24:33.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 04:24:33.772] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6590, y:96, z:-717, dim:minecraft:overworld]
+[29Dec2024 04:24:33.776] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:24:35.443] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[29Dec2024 04:24:44.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 04:24:44.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 04:26:27.315] [Server thread/DEBUG] [Eat an Omelette/]: Loaded forge.com.cursee.eat_an_omelette.platform.ForgePlatformHelper@197a9dbd for service interface forge.com.cursee.eat_an_omelette.platform.services.IPlatformHelper
+[29Dec2024 04:26:50.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 04:26:50.070] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6582, y:73, z:-721, dim:minecraft:overworld]
+[29Dec2024 04:26:50.072] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:26:51.428] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[29Dec2024 04:28:33.917] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming noobanidus/mods/lootr/data/SpecialChestInventory (target of net/minecraft/world/Container)
+[29Dec2024 04:29:06.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Great minds think alike]
+[29Dec2024 04:29:14.613] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[29Dec2024 04:29:14.613] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[29Dec2024 04:29:23.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! -6.290777365838039,-1.0,-7.99194713407735
+[29Dec2024 04:29:23.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[29Dec2024 04:29:44.584] [Worker-Main-11/DEBUG] [ModernFix/]: Structure additionalstructures:tomb_1 is being run through DFU (hash d3d38814db029e5ec150e6dc9b77cef65c3917568b24ff57a2b495eed30ce43b), this will cause launch time delays
+[29Dec2024 04:29:45.378] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[29Dec2024 04:29:45.387] [Worker-Main-11/DEBUG] [ModernFix/]: Structure additionalstructures:desert_tomb_1 is being run through DFU (hash 5668e3db2a1b68a7b96d8559ddb420625660066dab88649a46fcfab5f556d1d5), this will cause launch time delays
+[29Dec2024 04:29:45.606] [Worker-Main-11/DEBUG] [ModernFix/]: Structure additionalstructures:desert_tomb_2 is being run through DFU (hash 5c9f92643991bbb5f9196caa67cbda1a84c2b6ce6bf5ac124d8fa857fffa2483), this will cause launch time delays
+[29Dec2024 04:29:47.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 04:29:47.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 04:29:54.518] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[29Dec2024 04:29:55.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3849ms or 76 ticks behind
+[29Dec2024 04:30:42.908] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[29Dec2024 04:30:42.916] [Worker-Main-11/DEBUG] [ModernFix/]: Structure additionalstructures:stone_circle_2 is being run through DFU (hash 3721c3e2ea9f904698b77c567779a8b2aeaa61302bc27e2f96446cf0700c9696), this will cause launch time delays
+[29Dec2024 04:30:42.931] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[29Dec2024 04:30:43.211] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (6212 | 33 | -1580).
+[29Dec2024 04:30:43.215] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Dec2024 04:30:43.217] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[29Dec2024 04:30:43.219] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 5(0) Rooms
+[29Dec2024 04:30:43.219] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Dec2024 04:30:43.221] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[29Dec2024 04:30:43.221] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Dec2024 04:30:43.222] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(3) Nodes and 4(0) Rooms
+[29Dec2024 04:30:43.222] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Dec2024 04:30:43.222] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(2) Nodes and 6(0) Rooms
+[29Dec2024 04:30:43.222] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Dec2024 04:30:43.223] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 5(0) Rooms
+[29Dec2024 04:30:43.291] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[29Dec2024 04:30:43.302] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[29Dec2024 04:30:45.693] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wither_skull
+[29Dec2024 04:30:45.697] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:skeleton_skull
+[29Dec2024 04:30:49.174] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[29Dec2024 04:31:01.596] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sphinx
+[29Dec2024 04:31:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was doomed to fall by Spider
+[29Dec2024 04:31:13.766] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6010, y:68, z:-1127, dim:minecraft:overworld]
+[29Dec2024 04:31:13.769] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:31:14.994] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[29Dec2024 04:31:39.567] [Worker-Main-3/DEBUG] [ModernFix/]: Structure explorify:guide_post/cold/whole is being run through DFU (hash 2f4e8b8428be0e8d8e2a317beb9a3dc8b586c50561018c84daeccd52c55d60cc), this will cause launch time delays
+[29Dec2024 04:31:39.597] [Worker-Main-3/DEBUG] [ModernFix/]: Structure explorify:guide_post/warm/whole is being run through DFU (hash 859694af07c1c847f87b0546335273137c1b1bb68b3c1f6f8d4e4fe35e4c9f18), this will cause launch time delays
+[29Dec2024 04:32:23.114] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (6226 | -3 | -1440)
+[29Dec2024 04:32:23.122] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (6226 | -3 | -1440)
+[29Dec2024 04:32:23.122] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (6253 | -3 | -1440)
+[29Dec2024 04:32:23.123] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (6253 | -3 | -1440)
+[29Dec2024 04:32:23.134] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (6226 | -3 | -1440)
+[29Dec2024 04:32:23.134] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (6226 | -3 | -1440)
+[29Dec2024 04:32:23.144] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (6253 | -3 | -1440)
+[29Dec2024 04:32:23.145] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (6253 | -3 | -1440)
+[29Dec2024 04:32:23.434] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (6280 | -4 | -1440)
+[29Dec2024 04:32:23.435] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (6280 | -4 | -1440)
+[29Dec2024 04:32:33.577] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (6226 | -3 | -1440)
+[29Dec2024 04:32:33.589] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (6226 | -3 | -1440)
+[29Dec2024 04:34:51.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 04:34:51.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 04:37:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [An Extra Seedy Place]

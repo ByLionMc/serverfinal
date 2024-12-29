@@ -2110,3 +2110,19 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 03:58:15.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [29Dec2024 04:02:44.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
 [29Dec2024 04:02:44.523] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:09:34.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[29Dec2024 04:19:32.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 04:19:32.175] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:20:22.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[29Dec2024 04:24:33.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 04:24:33.776] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:26:50.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 04:26:50.072] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:29:06.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Great minds think alike]
+[29Dec2024 04:29:23.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! -6.290777365838039,-1.0,-7.99194713407735
+[29Dec2024 04:29:23.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[29Dec2024 04:29:55.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3849ms or 76 ticks behind
+[29Dec2024 04:30:43.217] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[29Dec2024 04:31:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was doomed to fall by Spider
+[29Dec2024 04:31:13.769] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 04:37:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [An Extra Seedy Place]
