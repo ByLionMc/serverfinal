@@ -824,6 +824,8 @@
       "shrubland": "2024-12-25 23:23:40 +0000",
       "rocky_shrubland": "2024-12-25 23:27:15 +0000",
       "erupting_inferno": "2024-12-25 17:00:34 +0000",
+      "highland": "2024-12-29 00:55:29 +0000",
+      "clover_patch": "2024-12-29 00:54:56 +0000",
       "old_growth_woodland": "2024-12-27 16:27:06 +0000",
       "crystalline_chasm": "2024-12-25 16:56:45 +0000",
       "lavender_forest": "2024-12-25 18:08:12 +0000",
@@ -2331,6 +2333,7 @@
       "apple": "2024-12-22 23:58:52 +0000",
       "bread": "2024-12-21 23:01:13 +0000",
       "glow_berries": "2024-12-23 00:32:54 +0000",
+      "cooked_chicken": "2024-12-29 00:47:25 +0000",
       "cooked_salmon": "2024-12-22 23:50:51 +0000",
       "carrot": "2024-12-25 18:07:51 +0000"
     },
@@ -12017,6 +12020,24 @@
     },
     "done": true
   },
+  "mobdropsrecipes_overworld:recipes/misc/totem_of_undying": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/spider_eye": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/red_cushion": {
     "criteria": {
       "has_red_cushion": "2024-12-29 00:18:32 +0000"
@@ -12029,15 +12050,57 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/red_sheet": {
     "criteria": {
       "has_red_sheet": "2024-12-29 00:18:32 +0000"
     },
     "done": true
   },
+  "mobdropsrecipes_overworld:recipes/misc/bone": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/red_cape": {
     "criteria": {
       "has_red_wool": "2024-12-29 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_spider_eye": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_slime_ball": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
     },
     "done": true
   },
@@ -12053,6 +12116,24 @@
     },
     "done": true
   },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_bone": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/prismarine_shard": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2024-12-29 00:18:32 +0000"
@@ -12065,9 +12146,69 @@
     },
     "done": true
   },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/trident": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/string": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_string": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
   "farlanders:kill_classic_enderman": {
     "criteria": {
       "kill_enderman": "2024-12-29 00:10:56 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_gunpowder": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/ender_pearl": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/overworld_essence_uncommon": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
     },
     "done": true
   },
@@ -12077,15 +12218,69 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/prismarine_crystals": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-12-29 00:18:32 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-12-29 00:55:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2024-12-29 00:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/phantom_membrane": {
+    "criteria": {
+      "has_common_essence": "2024-12-29 00:46:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2024-12-29 00:55:15 +0000"
     },
     "done": true
   },

@@ -79,3 +79,13 @@
 [29Dec2024 00:45:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myser444> 7time set day
 [29Dec2024 00:46:58.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [29Dec2024 00:46:59.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[29Dec2024 00:48:00.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 00:51:23.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
+[29Dec2024 00:51:43.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Ant Farm]
+[29Dec2024 00:53:23.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 00:53:23.388] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 00:54:00.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! -2.1867898941891326,1.4129092804170114,9.706580488296368
+[29Dec2024 00:54:00.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[29Dec2024 00:55:04.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
+[29Dec2024 00:55:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [A Little Hot Rod Red]
+[29Dec2024 00:55:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Light Up The World!]
