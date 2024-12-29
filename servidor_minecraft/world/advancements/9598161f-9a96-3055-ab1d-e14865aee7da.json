@@ -806,8 +806,10 @@
       "minecraft:snowy_plains": "2024-12-26 00:17:25 +0000",
       "minecraft:dripstone_caves": "2024-12-27 15:31:51 +0000",
       "minecraft:forest": "2024-12-26 01:28:54 +0000",
+      "minecraft:lush_caves": "2024-12-29 17:21:14 +0000",
       "minecraft:ice_spikes": "2024-12-26 00:18:57 +0000",
       "minecraft:frozen_ocean": "2024-12-26 00:21:27 +0000",
+      "minecraft:windswept_forest": "2024-12-29 17:21:56 +0000",
       "minecraft:deep_dark": "2024-12-27 16:14:02 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-26 00:18:46 +0000",
       "minecraft:savanna": "2024-12-26 00:31:42 +0000",
@@ -11595,6 +11597,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_wood_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_wood": "2024-12-29 17:24:44 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/white_concrete_slab": {
     "criteria": {
       "has_white_concrete": "2024-12-29 17:03:05 +0000"
@@ -11616,6 +11624,12 @@
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2024-12-29 17:02:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-29 17:30:16 +0000"
     },
     "done": true
   },

@@ -2295,3 +2295,10 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 17:21:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Trapped Inside]
 [29Dec2024 17:24:10.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -9.907502914927136,0.0,-1.8978982581312493
 [29Dec2024 17:24:10.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4480ms or 89 ticks behind
+[29Dec2024 17:25:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Close Quarters]
+[29Dec2024 17:26:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [A Strange Grave Dust]
+[29Dec2024 17:29:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Isn't It Iron Pick]
+[29Dec2024 17:30:02.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Ashes 'n Bones]
+[29Dec2024 17:32:08.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has completed the challenge [Centennial]
+[29Dec2024 17:33:00.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[29Dec2024 17:33:32.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Diamonds!]

@@ -20394,3 +20394,17 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 17:24:18.585] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
 [29Dec2024 17:24:18.585] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
 [29Dec2024 17:24:18.591] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[29Dec2024 17:25:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Close Quarters]
+[29Dec2024 17:25:46.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 17:25:46.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 17:26:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [A Strange Grave Dust]
+[29Dec2024 17:29:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Isn't It Iron Pick]
+[29Dec2024 17:30:02.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Ashes 'n Bones]
+[29Dec2024 17:30:12.158] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[29Dec2024 17:30:46.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 17:30:46.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 17:31:17.488] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/watch_tower
+[29Dec2024 17:31:17.488] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
+[29Dec2024 17:32:08.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has completed the challenge [Centennial]
+[29Dec2024 17:33:00.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[29Dec2024 17:33:32.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Diamonds!]
