@@ -853,6 +853,7 @@
       "lavender_field": "2024-12-08 15:37:39 +0000",
       "grassland": "2024-12-29 15:46:06 +0000",
       "tundra": "2024-12-08 14:44:31 +0000",
+      "undergrowth": "2024-12-29 18:04:49 +0000",
       "rainforest": "2024-12-22 21:39:22 +0000"
     },
     "done": false
@@ -5103,11 +5104,13 @@
       "minecraft:blaze": "2024-12-28 20:34:07 +0000",
       "minecraft:skeleton": "2024-12-08 15:43:27 +0000",
       "minecraft:ghast": "2024-12-28 20:37:30 +0000",
+      "minecraft:hoglin": "2024-12-29 18:05:16 +0000",
       "minecraft:magma_cube": "2024-12-25 17:36:29 +0000",
       "minecraft:spider": "2024-12-08 15:48:08 +0000",
       "minecraft:piglin_brute": "2024-12-25 17:02:01 +0000",
       "minecraft:creeper": "2024-12-08 15:43:54 +0000",
       "minecraft:zombified_piglin": "2024-12-24 15:11:56 +0000",
+      "minecraft:witch": "2024-12-29 17:59:57 +0000",
       "minecraft:wither_skeleton": "2024-12-25 20:57:24 +0000",
       "minecraft:cave_spider": "2024-12-08 15:43:15 +0000",
       "minecraft:piglin": "2024-12-25 17:00:33 +0000",
@@ -14970,6 +14973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
@@ -14979,6 +14988,24 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
     },
     "done": true
   },
@@ -15000,15 +15027,33 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-29 17:58:49 +0000"
+    },
+    "done": true
+  },
   "mekanism:infusing_efficiency": {
     "criteria": {
       "enriched_material": "2024-12-29 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
     },
     "done": true
   },
@@ -15030,6 +15075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-29 17:40:23 +0000"
@@ -15048,9 +15099,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-29 18:05:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
     },
     "done": true
   },
@@ -15066,6 +15147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
     "criteria": {
       "has_cracked_stone_bricks": "2024-12-29 17:40:27 +0000"
@@ -15075,6 +15162,12 @@
   "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2024-12-29 17:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
     },
     "done": true
   },

@@ -11621,6 +11621,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:56:49 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/stripped_dark_oak_wood_slab": {
     "criteria": {
       "has_stripped_dark_oak_wood": "2024-12-29 17:24:44 +0000"
@@ -11636,6 +11642,12 @@
   "new_slab_variants:recipes/building_blocks/white_concrete_slab": {
     "criteria": {
       "has_white_concrete": "2024-12-29 17:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
     },
     "done": true
   },
@@ -11687,15 +11699,33 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:56:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_picket_gate": {
     "criteria": {
       "has_concrete": "2024-12-29 17:03:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-29 17:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
     },
     "done": true
   },
@@ -11723,6 +11753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-29 17:48:08 +0000"
@@ -11744,6 +11780,12 @@
   "cfm:recipes/decorations/light_gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-29 17:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
     },
     "done": true
   },
@@ -11774,6 +11816,12 @@
   "cfm:recipes/decorations/purple_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-29 17:03:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:56:49 +0000"
     },
     "done": true
   },
@@ -11825,9 +11873,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/sealant": {
     "criteria": {
       "has_tag_a": "2024-12-29 17:46:36 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:56:49 +0000"
     },
     "done": true
   },
@@ -11837,9 +11903,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-29 17:58:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-29 17:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-29 17:56:49 +0000"
     },
     "done": true
   },
@@ -11852,6 +11936,12 @@
   "cfm:recipes/decorations/white_picket_fence": {
     "criteria": {
       "has_concrete": "2024-12-29 17:03:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:56:49 +0000"
     },
     "done": true
   },
