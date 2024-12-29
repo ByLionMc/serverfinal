@@ -14959,5 +14959,11 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2024-12-29 15:53:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
