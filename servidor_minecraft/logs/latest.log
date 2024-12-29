@@ -2306,3 +2306,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 17:36:37.243] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
 [29Dec2024 17:39:37.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [29Dec2024 17:41:37.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[29Dec2024 17:46:40.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Penteconter]
+[29Dec2024 17:48:33.718] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[29Dec2024 17:48:43.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[29Dec2024 17:50:26.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=742, y=61, z=6} BlockPos{x=744, y=63, z=6}
+[29Dec2024 17:50:26.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=742, y=61, z=6} BlockPos{x=744, y=63, z=6}
+[29Dec2024 17:50:26.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=742, y=61, z=6} BlockPos{x=744, y=63, z=6}
+[29Dec2024 17:50:26.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=742, y=61, z=6} BlockPos{x=744, y=63, z=6}
+[29Dec2024 17:50:58.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=794, y=60, z=6} BlockPos{x=792, y=58, z=6}
+[29Dec2024 17:51:00.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=60, z=6} BlockPos{x=797, y=59, z=6}
+[29Dec2024 17:51:00.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=60, z=6} BlockPos{x=797, y=59, z=6}
+[29Dec2024 17:51:00.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=60, z=6} BlockPos{x=797, y=59, z=6}
+[29Dec2024 17:51:00.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=798, y=60, z=6} BlockPos{x=797, y=59, z=6}

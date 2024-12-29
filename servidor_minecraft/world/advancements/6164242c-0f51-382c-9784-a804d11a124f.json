@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-12-29 17:48:35 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2024-12-29 16:21:11 +0000"
@@ -473,9 +479,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-29 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -683,6 +701,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_red": {
     "criteria": {
       "has_dirt": "2024-12-29 16:30:08 +0000"
@@ -789,6 +813,12 @@
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-29 17:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -912,6 +942,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-29 16:24:14 +0000"
@@ -951,6 +987,12 @@
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-29 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-12-29 17:46:26 +0000"
     },
     "done": true
   },
@@ -1038,6 +1080,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-29 17:46:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2024-12-29 17:04:40 +0000"
@@ -1071,6 +1119,12 @@
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
       "has_iron": "2024-12-29 17:04:40 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -1254,6 +1308,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 17:43:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-29 16:24:14 +0000"
@@ -1305,6 +1365,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 17:23:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-29 17:46:25 +0000"
     },
     "done": true
   },
@@ -1377,6 +1443,12 @@
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-29 16:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 17:43:21 +0000"
     },
     "done": true
   },
@@ -1842,6 +1914,12 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-29 17:44:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2024-12-29 16:37:59 +0000"
@@ -2019,6 +2097,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-29 17:00:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-29 17:40:48 +0000"
     },
     "done": true
   },
@@ -2460,6 +2544,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-29 17:46:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_planks": "2024-12-29 17:00:54 +0000"
@@ -2511,6 +2601,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-29 16:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 17:43:21 +0000"
     },
     "done": true
   },
@@ -2604,6 +2700,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-29 17:46:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2024-12-29 16:22:43 +0000"
@@ -2655,6 +2757,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-29 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -2715,6 +2823,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 17:04:40 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -2886,6 +3000,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-12-29 17:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-29 16:40:12 +0000"
@@ -2910,6 +3030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_park_bench": {
     "criteria": {
       "has_log": "2024-12-29 16:22:29 +0000"
@@ -2925,6 +3051,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-29 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -2985,6 +3117,12 @@
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 17:40:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -3263,6 +3401,7 @@
       "cooked_beef": "2024-12-29 17:08:48 +0000",
       "baked_potato": "2024-12-29 16:39:09 +0000",
       "apple": "2024-12-29 16:36:59 +0000",
+      "potato": "2024-12-29 17:47:54 +0000",
       "bread": "2024-12-29 16:52:48 +0000",
       "cooked_chicken": "2024-12-29 17:10:25 +0000"
     },
@@ -3314,6 +3453,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-29 17:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -3659,6 +3804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-29 17:44:16 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2024-12-29 16:21:11 +0000"
@@ -3821,6 +3972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blinds": {
     "criteria": {
       "has_wood": "2024-12-29 16:22:43 +0000"
@@ -3942,6 +4099,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2024-12-29 17:48:35 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-12-29 16:22:29 +0000"
@@ -4037,7 +4200,11 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-29 16:49:07 +0000",
       "minecraft:spider": "2024-12-29 17:33:45 +0000",
+      "minecraft:creeper": "2024-12-29 17:50:59 +0000",
+      "minecraft:wither_skeleton": "2024-12-29 17:49:46 +0000",
       "minecraft:cave_spider": "2024-12-29 17:35:08 +0000",
+      "minecraft:enderman": "2024-12-29 17:49:08 +0000",
+      "minecraft:silverfish": "2024-12-29 17:53:03 +0000",
       "minecraft:zombie": "2024-12-29 16:48:07 +0000"
     },
     "done": false
@@ -4135,6 +4302,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_string": "2024-12-29 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -4366,6 +4539,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-29 17:47:07 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/chisel_diamond": {
     "criteria": {
       "has_rod": "2024-12-29 16:24:14 +0000"
@@ -4375,6 +4554,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2024-12-29 17:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -4429,6 +4614,12 @@
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 17:40:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-29 17:46:25 +0000"
     },
     "done": true
   },
@@ -4661,6 +4852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 17:04:40 +0000"
@@ -4849,6 +5046,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-29 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -5111,9 +5314,21 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2024-12-29 17:43:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2024-12-29 17:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -5255,6 +5470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-12-29 17:14:24 +0000"
@@ -5375,6 +5596,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-29 17:48:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-29 17:12:39 +0000"
@@ -5390,6 +5617,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-29 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-29 17:44:16 +0000"
     },
     "done": true
   },
@@ -5729,6 +5962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
   "mcwfurnituresbop:recipes/mahogany": {
     "criteria": {
       "has_wood": "2024-12-29 16:32:54 +0000"
@@ -5744,6 +5983,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-29 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/building_blocks/large_brick_chimney": {
+    "criteria": {
+      "has_item": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -5971,6 +6216,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-12-29 17:47:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-29 17:00:26 +0000"
@@ -6052,6 +6303,12 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2024-12-29 16:21:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-29 17:54:11 +0000"
     },
     "done": true
   },
@@ -6205,6 +6462,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-29 17:47:07 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
       "has_item": "2024-12-29 16:38:50 +0000"
@@ -6220,6 +6483,12 @@
   "mcwbridges:recipes/cobblestone_bridge": {
     "criteria": {
       "has_planks": "2024-12-29 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
@@ -6325,6 +6594,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2024-12-29 17:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_purple.json": {
     "criteria": {
       "has_dirt": "2024-12-29 16:30:08 +0000"
@@ -6352,6 +6627,18 @@
   "mcwfencesbop:recipes/yellow_autumn_hedge": {
     "criteria": {
       "has_birch": "2024-12-29 16:21:11 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-29 17:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 17:43:21 +0000"
     },
     "done": true
   },
@@ -6828,6 +7115,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-12-29 17:48:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2024-12-29 16:22:43 +0000"
@@ -6912,6 +7205,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-29 17:44:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2024-12-29 17:19:33 +0000"
@@ -6934,6 +7233,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-29 17:00:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 17:46:22 +0000"
     },
     "done": true
   },
