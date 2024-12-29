@@ -2262,3 +2262,21 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 16:59:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Take Aim]
 [29Dec2024 17:01:04.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
 [29Dec2024 17:03:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to joselete123]
+[29Dec2024 17:04:40.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Acquire Hardware]
+[29Dec2024 17:05:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to DeferentCurve07]
+[29Dec2024 17:06:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS was slain by Looter
+[29Dec2024 17:06:00.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Your First Grave]
+[29Dec2024 17:06:00.450] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[29Dec2024 17:06:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [The Most Useful Key]
+[29Dec2024 17:06:14.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [A Fast Comeback]
+[29Dec2024 17:06:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [Here They Come]
+[29Dec2024 17:06:44.523] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[29Dec2024 17:08:15.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
+[29Dec2024 17:08:24.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 17:09:42.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Set the time to 1000]
+[29Dec2024 17:11:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to joselete123]
+[29Dec2024 17:11:16.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[29Dec2024 17:12:40.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Spooky Scary Skeleton]
+[29Dec2024 17:13:09.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [An Extra Seedy Place]
+[29Dec2024 17:14:43.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Rebel Farlander
+[29Dec2024 17:14:43.282] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved

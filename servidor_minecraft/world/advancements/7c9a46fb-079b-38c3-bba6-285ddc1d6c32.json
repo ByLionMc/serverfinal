@@ -846,6 +846,7 @@
       "spider_nest": "2024-12-08 15:14:27 +0000",
       "redwood_forest": "2024-12-21 23:42:45 +0000",
       "dune_beach": "2024-12-26 00:43:44 +0000",
+      "volcano": "2024-12-29 17:07:57 +0000",
       "rocky_rainforest": "2024-12-25 23:04:57 +0000",
       "pasture": "2024-12-27 14:28:28 +0000",
       "volcanic_plains": "2024-12-25 23:03:08 +0000",
@@ -14963,9 +14964,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
+    },
+    "done": true
+  },
   "mekanism:infusing_efficiency": {
     "criteria": {
       "enriched_material": "2024-12-29 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
     },
     "done": true
   },
