@@ -23793,3 +23793,315 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 21:19:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [Time To Even The Scales]
 [29Dec2024 21:19:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Time To Even The Scales]
 [29Dec2024 21:20:10.759] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[29Dec2024 21:20:40.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:20:59.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:20:59.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:21:11.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 21:21:51.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [The Silence of the Forest]
+[29Dec2024 21:22:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:22:42.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 21:22:50.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:22:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Silence of the Forest]
+[29Dec2024 21:23:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [Strong or Careful]
+[29Dec2024 21:23:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS was slain by Redcap
+[29Dec2024 21:23:18.044] [Server thread/DEBUG] [tombstone/]: A new grave of the player marquitosTPMS was created at position [x:52526, y:-5, z:-6386, dim:twilightforest:twilight_forest]
+[29Dec2024 21:23:18.098] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[29Dec2024 21:23:21.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Dec2024 21:23:21.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[29Dec2024 21:23:21.232] [Server thread/DEBUG] [twilightforest/]: Player marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f) respawned and received items held in storage
+[29Dec2024 21:23:21.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[29Dec2024 21:23:21.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[29Dec2024 21:23:21.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[29Dec2024 21:23:21.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[29Dec2024 21:23:22.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[29Dec2024 21:23:22.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[29Dec2024 21:23:23.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[29Dec2024 21:23:23.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[29Dec2024 21:23:23.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Dec2024 21:23:23.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[29Dec2024 21:23:23.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[29Dec2024 21:23:27.123] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:24:50.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Dec2024 21:24:50.750] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[29Dec2024 21:24:50.755] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[29Dec2024 21:24:50.759] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[29Dec2024 21:24:50.762] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[29Dec2024 21:24:50.766] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[29Dec2024 21:24:50.770] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[29Dec2024 21:24:50.774] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[29Dec2024 21:24:50.778] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[29Dec2024 21:24:50.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_2
+[29Dec2024 21:24:50.848] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[29Dec2024 21:24:50.853] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[29Dec2024 21:24:50.857] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[29Dec2024 21:24:50.861] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[29Dec2024 21:24:50.865] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[29Dec2024 21:24:50.871] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[29Dec2024 21:24:50.874] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[29Dec2024 21:24:51.059] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[29Dec2024 21:24:51.066] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[29Dec2024 21:24:51.075] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[29Dec2024 21:24:51.080] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:24:51.080] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:24:51.081] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[29Dec2024 21:24:51.089] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[29Dec2024 21:24:51.132] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Dec2024 21:24:51.254] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[29Dec2024 21:24:51.286] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[29Dec2024 21:24:51.291] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[29Dec2024 21:24:51.295] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[29Dec2024 21:24:51.299] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[29Dec2024 21:24:51.304] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[29Dec2024 21:24:51.308] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_4
+[29Dec2024 21:24:51.311] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_5
+[29Dec2024 21:24:51.314] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[29Dec2024 21:24:51.318] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[29Dec2024 21:24:51.321] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[29Dec2024 21:24:51.379] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[29Dec2024 21:24:51.384] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[29Dec2024 21:24:51.392] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[29Dec2024 21:24:51.454] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[29Dec2024 21:24:51.457] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[29Dec2024 21:24:51.461] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[29Dec2024 21:24:51.468] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[29Dec2024 21:24:51.471] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[29Dec2024 21:24:51.484] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[29Dec2024 21:24:51.514] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:skeleton_skull
+[29Dec2024 21:24:51.518] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wither_skull
+[29Dec2024 21:24:51.588] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[29Dec2024 21:24:51.591] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
+[29Dec2024 21:24:51.660] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[29Dec2024 21:24:51.672] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_3
+[29Dec2024 21:24:51.675] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_1
+[29Dec2024 21:24:51.678] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_2
+[29Dec2024 21:24:51.681] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[29Dec2024 21:24:51.686] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[29Dec2024 21:24:51.691] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[29Dec2024 21:24:51.694] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[29Dec2024 21:24:51.700] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[29Dec2024 21:24:51.705] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[29Dec2024 21:24:51.709] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[29Dec2024 21:24:51.712] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[29Dec2024 21:24:51.716] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[29Dec2024 21:24:51.719] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[29Dec2024 21:24:51.722] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[29Dec2024 21:24:51.725] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[29Dec2024 21:24:51.729] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[29Dec2024 21:24:51.732] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[29Dec2024 21:24:51.735] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[29Dec2024 21:24:51.738] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[29Dec2024 21:24:51.741] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[29Dec2024 21:24:51.745] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[29Dec2024 21:24:51.749] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[29Dec2024 21:24:51.752] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[29Dec2024 21:24:51.813] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[29Dec2024 21:24:51.813] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[29Dec2024 21:24:51.817] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[29Dec2024 21:24:51.834] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_nether_portal
+[29Dec2024 21:24:52.004] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[29Dec2024 21:24:52.014] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
+[29Dec2024 21:24:52.018] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_1
+[29Dec2024 21:24:52.021] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_3
+[29Dec2024 21:24:52.024] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
+[29Dec2024 21:24:52.026] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_2
+[29Dec2024 21:24:52.094] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[29Dec2024 21:24:52.097] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[29Dec2024 21:24:52.129] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[29Dec2024 21:24:52.132] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[29Dec2024 21:24:52.135] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[29Dec2024 21:24:52.138] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[29Dec2024 21:24:52.252] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[29Dec2024 21:24:53.165] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/root
+[29Dec2024 21:24:57.127] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (52228 | 43 | -6652).
+[29Dec2024 21:24:57.127] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Dec2024 21:24:57.127] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 4(0) Rooms
+[29Dec2024 21:24:57.127] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Dec2024 21:24:57.128] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[29Dec2024 21:24:57.128] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Dec2024 21:24:57.128] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 5(7) Nodes and 4(0) Rooms
+[29Dec2024 21:24:57.128] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Dec2024 21:24:57.128] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(5) Nodes and 6(0) Rooms
+[29Dec2024 21:24:57.128] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Dec2024 21:24:57.128] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
+[29Dec2024 21:24:59.507] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[29Dec2024 21:24:59.513] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[29Dec2024 21:24:59.519] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[29Dec2024 21:24:59.520] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
+[29Dec2024 21:24:59.526] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[29Dec2024 21:24:59.531] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[29Dec2024 21:24:59.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS moved too quickly! 0.7580430553425686,-1.1661092609382138,-9.93354738268772
+[29Dec2024 21:24:59.539] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_2
+[29Dec2024 21:24:59.545] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[29Dec2024 21:24:59.555] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[29Dec2024 21:24:59.585] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[29Dec2024 21:24:59.593] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[29Dec2024 21:24:59.594] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
+[29Dec2024 21:24:59.600] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[29Dec2024 21:24:59.601] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[29Dec2024 21:24:59.607] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[29Dec2024 21:24:59.623] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:24:59.623] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:24:59.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8861ms or 177 ticks behind
+[29Dec2024 21:25:02.899] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Dec2024 21:25:03.297] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[29Dec2024 21:25:03.301] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[29Dec2024 21:25:03.301] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[29Dec2024 21:25:03.302] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[29Dec2024 21:25:03.305] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[29Dec2024 21:25:03.308] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[29Dec2024 21:25:03.311] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[29Dec2024 21:25:03.314] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[29Dec2024 21:25:03.314] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[29Dec2024 21:25:03.317] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[29Dec2024 21:25:03.320] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[29Dec2024 21:25:03.324] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[29Dec2024 21:25:03.331] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[29Dec2024 21:25:03.331] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[29Dec2024 21:25:03.334] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[29Dec2024 21:25:03.337] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[29Dec2024 21:25:03.337] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[29Dec2024 21:25:03.337] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[29Dec2024 21:25:03.340] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[29Dec2024 21:25:03.340] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_3
+[29Dec2024 21:25:03.343] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[29Dec2024 21:25:07.720] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[29Dec2024 21:25:07.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS moved too quickly! 5.400934349032468,0.7967356006686916,-8.694743202245263
+[29Dec2024 21:25:07.847] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_2
+[29Dec2024 21:25:10.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[29Dec2024 21:25:15.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[29Dec2024 21:25:16.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[29Dec2024 21:25:20.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6186ms or 123 ticks behind
+[29Dec2024 21:25:26.499] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Dec2024 21:25:29.069] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[29Dec2024 21:25:34.123] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ruin_1
+[29Dec2024 21:25:34.128] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_ruin_1
+[29Dec2024 21:25:43.401] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=52612, y=1, z=-6569}) reached max scan size of 500
+[29Dec2024 21:25:46.978] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=52324, y=5, z=-6071}
+[29Dec2024 21:26:14.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:26:14.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:26:45.738] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:26:45.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to marquitosTPMS]
+[29Dec2024 21:26:46.779] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:26:46.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 21:26:53.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo burned to death
+[29Dec2024 21:26:53.983] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:52682, y:4, z:-6669, dim:twilightforest:twilight_forest]
+[29Dec2024 21:26:53.987] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 21:26:55.552] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[29Dec2024 21:26:55.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[29Dec2024 21:26:55.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Dec2024 21:26:55.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[29Dec2024 21:26:55.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Dec2024 21:26:55.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[29Dec2024 21:26:56.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[29Dec2024 21:26:56.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[29Dec2024 21:26:56.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[29Dec2024 21:26:57.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[29Dec2024 21:26:57.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[29Dec2024 21:26:57.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[29Dec2024 21:26:57.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Dec2024 21:26:58.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[29Dec2024 21:26:58.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[29Dec2024 21:26:59.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Dec2024 21:27:00.413] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:27:03.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS burned to death
+[29Dec2024 21:27:03.834] [Server thread/DEBUG] [tombstone/]: A new grave of the player marquitosTPMS was created at position [x:52676, y:4, z:-6663, dim:twilightforest:twilight_forest]
+[29Dec2024 21:27:03.837] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[29Dec2024 21:27:05.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[29Dec2024 21:27:05.106] [Server thread/DEBUG] [twilightforest/]: Player marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f) respawned and received items held in storage
+[29Dec2024 21:27:05.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[29Dec2024 21:27:05.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[29Dec2024 21:27:07.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[29Dec2024 21:27:07.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[29Dec2024 21:27:08.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[29Dec2024 21:27:08.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[29Dec2024 21:27:10.065] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:27:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:27:50.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to marquitosTPMS]
+[29Dec2024 21:27:57.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:28:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [Chain Death]
+[29Dec2024 21:28:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS burned to death
+[29Dec2024 21:28:04.742] [Server thread/DEBUG] [tombstone/]: A new grave of the player marquitosTPMS was created at position [x:52701, y:3, z:-6720, dim:twilightforest:twilight_forest]
+[29Dec2024 21:28:04.745] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[29Dec2024 21:28:09.997] [Server thread/DEBUG] [twilightforest/]: Player marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f) respawned and received items held in storage
+[29Dec2024 21:28:12.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[29Dec2024 21:28:12.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Dec2024 21:28:12.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[29Dec2024 21:28:12.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[29Dec2024 21:28:16.004] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:28:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to carloselpillo]
+[29Dec2024 21:28:53.355] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[29Dec2024 21:29:22.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[29Dec2024 21:29:22.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[29Dec2024 21:29:23.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[29Dec2024 21:29:23.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_2
+[29Dec2024 21:29:23.066] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[29Dec2024 21:29:23.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[29Dec2024 21:29:23.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[29Dec2024 21:29:23.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[29Dec2024 21:29:23.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[29Dec2024 21:29:23.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Dec2024 21:29:23.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[29Dec2024 21:29:23.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[29Dec2024 21:29:23.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Dec2024 21:29:23.263] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:29:23.265] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:29:23.265] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[29Dec2024 21:29:23.275] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[29Dec2024 21:29:23.281] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[29Dec2024 21:29:23.286] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[29Dec2024 21:29:23.291] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[29Dec2024 21:29:23.296] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[29Dec2024 21:29:23.317] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[29Dec2024 21:29:23.322] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[29Dec2024 21:29:23.327] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[29Dec2024 21:29:23.343] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[29Dec2024 21:29:23.348] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[29Dec2024 21:29:23.354] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[29Dec2024 21:29:23.359] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[29Dec2024 21:29:23.369] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[29Dec2024 21:29:23.374] [Worker-Main-429/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[29Dec2024 21:29:23.385] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[29Dec2024 21:29:23.390] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[29Dec2024 21:29:23.395] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[29Dec2024 21:29:23.399] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[29Dec2024 21:29:23.403] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[29Dec2024 21:29:23.421] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[29Dec2024 21:29:23.425] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[29Dec2024 21:29:23.430] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[29Dec2024 21:29:23.431] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_2
+[29Dec2024 21:29:23.435] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[29Dec2024 21:29:23.439] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
+[29Dec2024 21:29:23.443] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[29Dec2024 21:29:24.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Dec2024 21:29:24.167] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:29:24.168] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 21:29:24.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[29Dec2024 21:29:25.777] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/root
+[29Dec2024 21:29:29.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[29Dec2024 21:29:30.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:29:34.766] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[29Dec2024 21:29:34.773] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[29Dec2024 21:29:34.779] [Worker-Main-430/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[29Dec2024 21:29:35.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[29Dec2024 21:29:36.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Dec2024 21:29:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 21:29:37.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Dec2024 21:29:38.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[29Dec2024 21:29:39.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[29Dec2024 21:29:42.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Dec2024 21:29:59.975] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[29Dec2024 21:29:59.975] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[29Dec2024 21:29:59.976] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[29Dec2024 21:30:00.163] [Server thread/DEBUG] [twilightforest/]: Found existing portal for joselete123 at BlockPos{x=52324, y=5, z=-6072}
+[29Dec2024 21:30:00.274] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=6553, y=69, z=-759}
+[29Dec2024 21:30:00.277] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=52324, y=5, z=-6072}
+[29Dec2024 21:30:00.277] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=6553, y=69, z=-759}
+[29Dec2024 21:30:00.277] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=6553, y=69, z=-760}
+[29Dec2024 21:30:00.277] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=6554, y=69, z=-760}
+[29Dec2024 21:30:00.277] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=6554, y=69, z=-759}
+[29Dec2024 21:30:00.284] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:30:00.284] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:30:00.376] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=52324, y=5, z=-6072}
+[29Dec2024 21:30:00.383] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:30:00.383] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[29Dec2024 21:30:18.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to joselete123]

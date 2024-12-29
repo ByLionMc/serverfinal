@@ -2613,3 +2613,34 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 21:19:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [Time To Even The Scales]
 [29Dec2024 21:19:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Time To Even The Scales]
 [29Dec2024 21:20:10.759] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[29Dec2024 21:20:40.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:21:11.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 21:21:51.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [The Silence of the Forest]
+[29Dec2024 21:22:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:22:42.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 21:22:50.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:22:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Silence of the Forest]
+[29Dec2024 21:23:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [Strong or Careful]
+[29Dec2024 21:23:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS was slain by Redcap
+[29Dec2024 21:23:18.098] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[29Dec2024 21:24:59.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS moved too quickly! 0.7580430553425686,-1.1661092609382138,-9.93354738268772
+[29Dec2024 21:24:59.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8861ms or 177 ticks behind
+[29Dec2024 21:25:07.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS moved too quickly! 5.400934349032468,0.7967356006686916,-8.694743202245263
+[29Dec2024 21:25:20.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6186ms or 123 ticks behind
+[29Dec2024 21:26:45.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to marquitosTPMS]
+[29Dec2024 21:26:46.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[29Dec2024 21:26:53.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo burned to death
+[29Dec2024 21:26:53.987] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 21:27:03.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS burned to death
+[29Dec2024 21:27:03.837] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[29Dec2024 21:27:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:27:50.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to marquitosTPMS]
+[29Dec2024 21:27:57.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:28:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has reached the goal [Chain Death]
+[29Dec2024 21:28:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS burned to death
+[29Dec2024 21:28:04.745] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[29Dec2024 21:28:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to carloselpillo]
+[29Dec2024 21:28:53.355] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[29Dec2024 21:29:30.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 21:29:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 21:30:18.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to joselete123]
