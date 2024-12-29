@@ -11975,15 +11975,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2024-12-29 18:20:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-29 18:19:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-29 18:20:04 +0000"
     },
     "done": true
   },
@@ -11996,12 +11996,6 @@
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2024-12-29 18:20:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-29 18:26:56 +0000"
     },
     "done": true
   },
@@ -12020,6 +12014,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-29 18:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-29 18:26:56 +0000"
     },
     "done": true
   },

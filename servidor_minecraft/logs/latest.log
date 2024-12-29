@@ -2458,3 +2458,27 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 19:48:00.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Mysterious Gift]
 [29Dec2024 19:48:00.321] [Server thread/INFO] [Jade/]: Syncing config to marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f)
 [29Dec2024 19:48:00.376] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[29Dec2024 19:50:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to joselete123]
+[29Dec2024 19:52:28.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 19:52:52.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeferentCurve07[/127.191.128.44:58849] logged in with entity id 131850 at (6134.408601887908, 73.0, -373.2328393931141)
+[29Dec2024 19:52:52.671] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DeferentCurve07
+[29Dec2024 19:52:52.671] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DeferentCurve07
+[29Dec2024 19:52:52.671] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DeferentCurve07
+[29Dec2024 19:52:52.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DeferentCurve07
+[29Dec2024 19:52:52.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DeferentCurve07
+[29Dec2024 19:52:52.675] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DeferentCurve07
+[29Dec2024 19:52:52.676] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DeferentCurve07
+[29Dec2024 19:52:52.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
+[29Dec2024 19:52:52.762] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
+[29Dec2024 19:56:28.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:59083] logged in with entity id 133377 at (6128.082850858063, 68.0, -380.74675312277145)
+[29Dec2024 19:56:28.921] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[29Dec2024 19:56:28.921] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[29Dec2024 19:56:28.922] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[29Dec2024 19:56:28.922] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[29Dec2024 19:56:28.924] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[29Dec2024 19:56:28.926] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[29Dec2024 19:56:28.926] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[29Dec2024 19:56:28.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[29Dec2024 19:56:29.026] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[29Dec2024 19:57:31.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Cachalot Whale
+[29Dec2024 19:57:31.748] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
