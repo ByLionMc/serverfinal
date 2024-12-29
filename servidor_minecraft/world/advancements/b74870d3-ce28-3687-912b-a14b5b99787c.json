@@ -13913,6 +13913,12 @@
     },
     "done": true
   },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2024-12-29 00:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-29 00:11:26 +0000"
