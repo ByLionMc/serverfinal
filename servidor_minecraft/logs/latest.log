@@ -67,3 +67,9 @@
 [29Dec2024 00:24:29.080] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
 [29Dec2024 00:24:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Cave Centipede
 [29Dec2024 00:24:54.436] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[29Dec2024 00:26:45.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[29Dec2024 00:28:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [This is the End]
+[29Dec2024 00:29:51.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[29Dec2024 00:30:04.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 00:30:12.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved wrongly!
+[29Dec2024 00:32:58.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
