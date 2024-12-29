@@ -20050,3 +20050,11 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [29Dec2024 01:45:37.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 01:47:34.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
 [29Dec2024 01:47:37.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[29Dec2024 01:50:05.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6623, y=121, z=-724} BlockPos{x=6622, y=121, z=-725}
+[29Dec2024 01:50:05.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6623, y=121, z=-724} BlockPos{x=6622, y=121, z=-725}
+[29Dec2024 01:50:05.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6623, y=121, z=-724} BlockPos{x=6622, y=121, z=-725}
+[29Dec2024 01:50:37.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 01:50:37.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 01:50:45.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6625, y=122, z=-726} BlockPos{x=6625, y=121, z=-727}
+[29Dec2024 01:55:37.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 01:55:37.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
