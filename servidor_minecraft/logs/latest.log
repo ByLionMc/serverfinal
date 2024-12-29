@@ -2373,3 +2373,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 18:15:21.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
 [29Dec2024 18:15:22.000] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
 [29Dec2024 18:16:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to marquitosTPMS]
+[29Dec2024 18:17:49.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 18:18:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[29Dec2024 18:19:12.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to joselete123]
+[29Dec2024 18:19:51.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
+[29Dec2024 18:19:51.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
