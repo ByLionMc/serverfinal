@@ -2682,3 +2682,73 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 21:49:21.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [29Dec2024 21:49:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> champi
 [29Dec2024 21:51:23.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
+[29Dec2024 21:51:56.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to marquitosTPMS]
+[29Dec2024 21:52:27.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[29Dec2024 21:52:27.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[29Dec2024 21:54:03.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.171.84.144:51581] logged in with entity id 219201 at (6628.785754282189, 124.0, -748.6049292039324)
+[29Dec2024 21:54:03.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to joselete123
+[29Dec2024 21:54:03.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to joselete123
+[29Dec2024 21:54:03.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to joselete123
+[29Dec2024 21:54:03.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to joselete123
+[29Dec2024 21:54:03.630] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to joselete123
+[29Dec2024 21:54:03.633] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to joselete123
+[29Dec2024 21:54:03.633] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to joselete123
+[29Dec2024 21:54:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[29Dec2024 21:54:03.761] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[29Dec2024 21:54:17.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> chavlaes
+[29Dec2024 21:54:20.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> di
+[29Dec2024 21:54:20.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> podemos dormir?
+[29Dec2024 21:54:30.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
+[29Dec2024 21:54:33.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> noo
+[29Dec2024 21:54:39.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> es que no tengo cama
+[29Dec2024 21:54:45.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> jhoder deferent
+[29Dec2024 21:55:10.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> a partir de ahora crearse un saco de dormir que lo podeis llevar encima y no se os cambia el respawn
+[29Dec2024 21:55:17.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> vake
+[29Dec2024 21:55:21.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> vakiña
+[29Dec2024 21:55:21.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 21:57:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[29Dec2024 21:57:39.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> chavales podeis saliros ujn momento pa dormir
+[29Dec2024 21:57:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> o hacerse los sacos pora
+[29Dec2024 21:57:45.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 21:57:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> esq estamos viendo una maquina q creo q tiene cooldown
+[29Dec2024 21:57:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> os importa?
+[29Dec2024 22:00:48.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has completed the challenge [Centennial]
+[29Dec2024 22:01:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[29Dec2024 22:04:05.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 22:05:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> chavlales dormir
+[29Dec2024 22:05:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> xffavo
+[29Dec2024 22:05:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> que estamos haciendo una granja
+[29Dec2024 22:07:58.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[29Dec2024 22:07:58.601] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[29Dec2024 22:09:11.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> si os llevo camas dormiis?
+[29Dec2024 22:09:12.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> xfi
+[29Dec2024 22:09:14.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> si
+[29Dec2024 22:09:24.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Set the time to 1000]
+[29Dec2024 22:09:29.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> marquitos tus muertos
+[29Dec2024 22:09:42.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Set the time to 13000]
+[29Dec2024 22:09:58.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> me tepeo
+[29Dec2024 22:10:04.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> y os doy los sacos
+[29Dec2024 22:10:08.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to DeferentCurve07]
+[29Dec2024 22:10:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> ahi teneis uno pa cada uno
+[29Dec2024 22:10:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> os quiero
+[29Dec2024 22:10:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> marquitos toma
+[29Dec2024 22:10:24.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to marquitosTPMS]
+[29Dec2024 22:10:25.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 22:10:35.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 22:10:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> dormir
+[29Dec2024 22:10:52.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> Zzz
+[29Dec2024 22:10:59.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> zZZ:zzz:
+[29Dec2024 22:11:03.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> zzz
+[29Dec2024 22:11:04.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> zzz
+[29Dec2024 22:11:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> zzz
+[29Dec2024 22:11:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> zzz
+[29Dec2024 22:11:12.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> Z:zzz:
+[29Dec2024 22:11:26.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> zzzz
+[29Dec2024 22:11:39.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> zZZz
+[29Dec2024 22:12:05.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> zzzz
+[29Dec2024 22:12:16.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[29Dec2024 22:13:50.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
+[29Dec2024 22:14:03.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to marquitosTPMS]
+[29Dec2024 22:16:43.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[29Dec2024 22:17:41.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 22:18:17.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]

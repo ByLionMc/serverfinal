@@ -808,6 +808,7 @@
       "minecraft:snowy_plains": "2024-12-08 14:42:10 +0000",
       "minecraft:dripstone_caves": "2024-12-08 15:46:00 +0000",
       "minecraft:forest": "2024-12-22 21:41:31 +0000",
+      "minecraft:lush_caves": "2024-12-29 22:10:08 +0000",
       "minecraft:ice_spikes": "2024-12-08 14:45:01 +0000",
       "minecraft:frozen_ocean": "2024-12-26 00:21:22 +0000",
       "minecraft:ocean": "2024-12-26 00:49:11 +0000",
@@ -14969,58 +14970,21 @@
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_trapdoor": {
+  "mekanism:infusing_efficiency": {
     "criteria": {
-      "has_netherite_scrap": "2024-12-29 18:12:19 +0000"
+      "enriched_material": "2024-12-29 15:53:18 +0000"
     },
     "done": true
   },
-  "twilightforest:arborist": {
+  "mekanism:atomic_alloy": {
     "criteria": {
-      "twilight_oak_planks": "2024-12-29 21:31:00 +0000",
-      "twilight_oak_log": "2024-12-29 21:19:42 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/decorations/uncrafting_table": {
-    "criteria": {
-      "has_uncrafting_table": "2024-12-29 21:41:24 +0000"
+      "alloy_atomic": "2024-12-29 16:04:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+  "mekanism:personal_storage": {
     "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 17:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-29 18:12:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
-    "criteria": {
-      "has_item": "2024-12-29 21:19:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_naga": "2024-12-29 21:19:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
-    "criteria": {
-      "has_item": "2024-12-29 21:23:19 +0000"
+      "storage": "2024-12-29 16:43:25 +0000"
     },
     "done": true
   },
@@ -15036,129 +15000,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 18:05:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-12-29 20:14:51 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "was_in_fight": "2024-12-29 21:19:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 18:05:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2024-12-29 21:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
-    "criteria": {
-      "has_item": "2024-12-29 21:23:19 +0000"
-    },
-    "done": true
-  },
-  "mekanism:teleportation_core": {
-    "criteria": {
-      "teleportation_core": "2024-12-29 17:19:40 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
-    "criteria": {
-      "has_item": "2024-12-29 21:40:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
-    "criteria": {
-      "has_item": "2024-12-29 21:19:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "swarm_spider": "2024-12-29 21:22:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/campfired_meef": {
-    "criteria": {
-      "has_food": "2024-12-29 21:36:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-12-29 20:14:51 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 17:40:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/red_nether_bricks": {
-    "criteria": {
-      "has_planks": "2024-12-29 17:58:44 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-29 18:12:19 +0000"
     },
     "done": true
   },
@@ -15168,93 +15012,51 @@
     },
     "done": true
   },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2024-12-29 17:58:49 +0000"
-    },
-    "done": true
-  },
-  "mekanism:infusing_efficiency": {
-    "criteria": {
-      "enriched_material": "2024-12-29 15:53:18 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_boots_repairing": {
-    "criteria": {
-      "has_iron_boots": "2024-12-29 21:23:49 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_axe_repairing": {
-    "criteria": {
-      "has_diamond_axe": "2024-12-29 21:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smelted_meef": {
-    "criteria": {
-      "has_food": "2024-12-29 21:36:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2024-12-29 17:19:40 +0000"
+    },
+    "done": true
+  },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2024-12-29 17:20:48 +0000"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2024-12-29 17:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-29 17:40:23 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
+      "has_mossy_stone_bricks": "2024-12-29 17:40:23 +0000"
     },
     "done": true
   },
-  "explorerscompass:explorers_compass": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
-      "has_recipe": "2024-12-29 17:40:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smoked_meef": {
-    "criteria": {
-      "has_food": "2024-12-29 21:36:42 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
-    "criteria": {
-      "has_magma_block": "2024-12-29 18:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 18:05:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
-    "criteria": {
-      "has_item": "2024-12-29 21:23:19 +0000"
+      "has_mossy_stone_bricks": "2024-12-29 17:40:23 +0000"
     },
     "done": true
   },
@@ -15270,21 +15072,105 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/melon_juice": {
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
     "criteria": {
-      "has_melon": "2024-12-29 20:14:51 +0000"
+      "has_planks": "2024-12-29 17:40:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_melon": "2024-12-29 20:14:51 +0000"
+      "has_mossy_stone_bricks": "2024-12-29 17:40:23 +0000"
     },
     "done": true
   },
-  "mekanism:digital_miner": {
+  "explorerscompass:explorers_compass": {
     "criteria": {
-      "digital_miner": "2024-12-29 17:21:00 +0000"
+      "has_recipe": "2024-12-29 17:40:27 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-12-29 17:40:27 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-29 17:40:27 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-29 17:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-29 17:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 18:05:18 +0000"
     },
     "done": true
   },
@@ -15294,27 +15180,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2024-12-29 18:05:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
     },
     "done": true
   },
@@ -15330,75 +15198,51 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cobweb": {
+  "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
-      "has_recipe": "2024-12-29 17:40:27 +0000"
+      "has_netherite_scrap": "2024-12-29 18:12:19 +0000"
     },
     "done": true
   },
-  "mekanism:logistical_sorter": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "logistical_sorter": "2024-12-29 17:20:48 +0000"
+      "has_netherite_scrap": "2024-12-29 18:12:19 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+  "supplementaries:recipes/netherite_door": {
     "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
+      "has_netherite_scrap": "2024-12-29 18:12:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
     "criteria": {
-      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+      "has_magma_block": "2024-12-29 18:51:53 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_cracked_stone_bricks": "2024-12-29 17:40:27 +0000"
+      "has_melon": "2024-12-29 20:14:51 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_planks": "2024-12-29 17:40:23 +0000"
+      "has_melon": "2024-12-29 20:14:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+  "croptopia:recipes/misc/melon_juice": {
     "criteria": {
-      "has_red_nether_bricks": "2024-12-29 17:58:44 +0000"
+      "has_melon": "2024-12-29 20:14:51 +0000"
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_cracked_stone_bricks": "2024-12-29 17:40:27 +0000"
-    },
-    "done": true
-  },
-  "mekanism:atomic_alloy": {
-    "criteria": {
-      "alloy_atomic": "2024-12-29 16:04:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:00 +0000"
-    },
-    "done": true
-  },
-  "mekanism:personal_storage": {
-    "criteria": {
-      "storage": "2024-12-29 16:43:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
-    "criteria": {
-      "has_item": "2024-12-29 21:23:19 +0000"
+      "has_melon": "2024-12-29 20:14:51 +0000"
     },
     "done": true
   },
@@ -15408,21 +15252,178 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-29 21:19:29 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2024-12-29 21:19:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2024-12-29 21:31:00 +0000",
+      "twilight_oak_log": "2024-12-29 21:19:42 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2024-12-29 21:19:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2024-12-29 21:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-29 21:21:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "swarm_spider": "2024-12-29 21:22:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2024-12-29 21:23:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2024-12-29 21:23:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-29 21:23:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-29 21:23:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-12-29 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
     "criteria": {
       "has_item": "2024-12-29 21:31:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 17:40:23 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/twilightforest/sign_post_twilight_oak": {
     "criteria": {
       "has_planks": "2024-12-29 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2024-12-29 21:36:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2024-12-29 21:36:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2024-12-29 21:36:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2024-12-29 21:40:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2024-12-29 21:41:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-29 21:51:25 +0000"
     },
     "done": true
   },

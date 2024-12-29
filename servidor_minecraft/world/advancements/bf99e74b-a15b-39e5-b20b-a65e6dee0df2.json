@@ -805,6 +805,7 @@
       "minecraft:snowy_plains": "2024-12-21 22:52:33 +0000",
       "minecraft:dripstone_caves": "2024-12-27 15:32:06 +0000",
       "minecraft:forest": "2024-12-25 23:18:00 +0000",
+      "minecraft:lush_caves": "2024-12-29 21:57:46 +0000",
       "minecraft:flower_forest": "2024-12-25 18:08:50 +0000",
       "minecraft:deep_dark": "2024-12-23 00:18:55 +0000",
       "minecraft:savanna": "2024-12-21 23:24:47 +0000",
@@ -12633,6 +12634,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/redstone_block_slab": {
+    "criteria": {
+      "has_redstone_block": "2024-12-29 22:12:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_calcite_pillar_trim": "2024-12-29 19:59:34 +0000"
@@ -12741,6 +12748,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-29 22:12:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
@@ -12837,6 +12850,12 @@
     },
     "done": true
   },
+  "super_ore_block:recipes/building_blocks/super_redstone_block_from_redstone_block": {
+    "criteria": {
+      "has_redstone_block": "2024-12-29 22:12:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-29 21:04:53 +0000"
@@ -12846,6 +12865,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-29 22:12:55 +0000"
     },
     "done": true
   },
@@ -12948,6 +12973,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-29 22:00:48 +0000"
     },
     "done": true
   },
@@ -13056,6 +13087,12 @@
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/chiseled_stone_bricks_slab": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-29 22:04:17 +0000"
     },
     "done": true
   },

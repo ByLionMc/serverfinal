@@ -803,6 +803,7 @@
       "minecraft:lukewarm_ocean": "2024-12-24 14:57:32 +0000",
       "minecraft:snowy_plains": "2024-12-08 15:00:44 +0000",
       "minecraft:dripstone_caves": "2024-12-08 15:47:36 +0000",
+      "minecraft:lush_caves": "2024-12-29 22:10:26 +0000",
       "minecraft:ice_spikes": "2024-12-26 00:19:32 +0000",
       "minecraft:jungle": "2024-12-29 04:42:01 +0000",
       "minecraft:flower_forest": "2024-12-24 15:04:53 +0000",
@@ -14382,6 +14383,12 @@
   "ad_astra:recipes/misc/brown_flag": {
     "criteria": {
       "has_brown_flag": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2024-12-29 21:53:49 +0000"
     },
     "done": true
   },
