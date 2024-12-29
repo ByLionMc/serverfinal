@@ -2218,3 +2218,38 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 16:38:29.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Barrel Booty]
 [29Dec2024 16:38:50.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [A Little Hot Rod Red]
 [29Dec2024 16:41:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 16:48:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Monster Hunter]
+[29Dec2024 16:48:42.998] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[29Dec2024 16:48:50.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[29Dec2024 16:48:58.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[29Dec2024 16:49:10.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
+[29Dec2024 16:49:10.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
+[29Dec2024 16:50:27.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Sweet Dreams]
+[29Dec2024 16:51:42.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[29Dec2024 16:51:54.446] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands]] from pos BlockPos{x=6405, y=71, z=373}
+[29Dec2024 16:51:54.448] [pool-8-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[29Dec2024 16:51:58.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3434ms or 68 ticks behind
+[29Dec2024 16:51:58.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[29Dec2024 16:51:58.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS moved too quickly! -9.999522947508922,0.4203014563238696,-0.4362279566018117
+[29Dec2024 16:52:01.871] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=6405, y=71, z=373} but found not block entity block Block{minecraft:air} at location
+[29Dec2024 16:52:01.872] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=6405, y=71, z=373}
+[29Dec2024 16:52:09.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[29Dec2024 16:52:19.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 8.988985202604454,-0.16779664663325455,4.6032996274473135
+[29Dec2024 16:52:19.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS moved too quickly! -9.916171509382366,-1.495200877005928,1.8442355657748521
+[29Dec2024 16:52:19.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 10.169425318495996,0.12129684053918943,-0.48430766654124113
+[29Dec2024 16:52:19.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
+[29Dec2024 16:52:48.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeferentCurve07[/127.191.128.44:50007] logged in with entity id 46364 at (5916.762206055009, -2.0, -194.2893820083288)
+[29Dec2024 16:52:48.766] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DeferentCurve07
+[29Dec2024 16:52:48.767] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DeferentCurve07
+[29Dec2024 16:52:48.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DeferentCurve07
+[29Dec2024 16:52:48.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DeferentCurve07
+[29Dec2024 16:52:48.772] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DeferentCurve07
+[29Dec2024 16:52:48.777] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DeferentCurve07
+[29Dec2024 16:52:48.777] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DeferentCurve07
+[29Dec2024 16:52:48.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
+[29Dec2024 16:52:49.079] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
+[29Dec2024 16:53:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 suffocated in a wall
+[29Dec2024 16:53:01.610] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[29Dec2024 16:53:01.627] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
+[29Dec2024 16:53:24.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Knowledge of Death]
+[29Dec2024 16:53:24.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Ambush]
