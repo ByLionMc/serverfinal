@@ -2302,3 +2302,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 17:32:08.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has completed the challenge [Centennial]
 [29Dec2024 17:33:00.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
 [29Dec2024 17:33:32.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Diamonds!]
+[29Dec2024 17:36:37.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 was slain by Zombie
+[29Dec2024 17:36:37.243] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
+[29Dec2024 17:39:37.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 17:41:37.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context

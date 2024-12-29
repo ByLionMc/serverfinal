@@ -11645,6 +11645,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-29 17:32:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-29 17:03:05 +0000"
@@ -11660,6 +11666,24 @@
   "cfm:recipes/decorations/light_gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-29 17:03:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-29 17:38:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-29 17:32:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-12-29 17:36:24 +0000"
     },
     "done": true
   },
