@@ -20313,3 +20313,84 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 17:14:51.516] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
 [29Dec2024 17:14:51.520] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
 [29Dec2024 17:14:53.175] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:illager_house_1
+[29Dec2024 17:14:56.143] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wither_skull
+[29Dec2024 17:14:56.151] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:skeleton_skull
+[29Dec2024 17:14:56.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3367ms or 67 ticks behind
+[29Dec2024 17:14:58.901] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[29Dec2024 17:14:58.901] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[29Dec2024 17:14:58.915] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[29Dec2024 17:15:04.443] [Worker-Main-2/DEBUG] [ModernFix/]: Structure farlanders:titan_spire/root is being run through DFU (hash a07bf6e235378aa582fa73351e6e8b121c9e4bacf93bc3395436d48d997cecfb), this will cause launch time delays
+[29Dec2024 17:15:04.526] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[29Dec2024 17:15:04.538] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[29Dec2024 17:15:04.546] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[29Dec2024 17:15:04.553] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[29Dec2024 17:15:04.577] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[29Dec2024 17:15:04.585] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[29Dec2024 17:15:04.592] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/root
+[29Dec2024 17:15:11.470] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[29Dec2024 17:15:11.481] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
+[29Dec2024 17:15:11.489] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[29Dec2024 17:15:18.718] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[29Dec2024 17:15:18.744] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[29Dec2024 17:15:18.758] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[29Dec2024 17:15:18.773] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[29Dec2024 17:15:18.779] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[29Dec2024 17:15:18.786] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[29Dec2024 17:15:18.793] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[29Dec2024 17:15:18.803] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[29Dec2024 17:15:18.841] [Worker-Main-3/DEBUG] [ModernFix/]: Structure conjurer_illager:theatre/root is being run through DFU (hash af439650047efa7cb639336b661e4e106187d256e02a7f50c7abadf7234af29d), this will cause launch time delays
+[29Dec2024 17:15:18.856] [Worker-Main-3/DEBUG] [ModernFix/]: Structure conjurer_illager:theatre/lobby_1 is being run through DFU (hash 079d6684c11847295278e69cc1123c57d478e82e41fea3b78c7d6d371f3450f0), this will cause launch time delays
+[29Dec2024 17:15:18.929] [Worker-Main-3/DEBUG] [ModernFix/]: Structure conjurer_illager:theatre/scene/joker is being run through DFU (hash ebe82e40b2bc7222cee0781999a65d3cee4665ba3583a435bce820cf064e6e34), this will cause launch time delays
+[29Dec2024 17:15:19.041] [Worker-Main-3/DEBUG] [ModernFix/]: Structure conjurer_illager:theatre/stage_2 is being run through DFU (hash 858cf5c6ecc438813ed1f2caa15f3d46261a0d018327e06df56b0a5935278460), this will cause launch time delays
+[29Dec2024 17:15:19.113] [Worker-Main-3/DEBUG] [ModernFix/]: Structure conjurer_illager:theatre/offshoot/dressing_room is being run through DFU (hash b6725840e0534ae964b4d41f1a9399b3e345300437742123624e4e65659e37c5), this will cause launch time delays
+[29Dec2024 17:15:28.071] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[29Dec2024 17:15:29.395] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[29Dec2024 17:15:29.403] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[29Dec2024 17:15:29.408] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_1
+[29Dec2024 17:15:29.413] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[29Dec2024 17:15:29.414] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[29Dec2024 17:15:29.419] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[29Dec2024 17:15:29.419] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[29Dec2024 17:15:29.425] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[29Dec2024 17:15:33.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS moved too quickly! 1.1039628748476389,-1.0,9.958448150409026
+[29Dec2024 17:15:33.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! 2.0628167979393766,-1.0,9.782112192094417
+[29Dec2024 17:15:33.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[29Dec2024 17:15:38.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 17:15:38.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 17:15:43.002] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_4
+[29Dec2024 17:15:43.006] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_5
+[29Dec2024 17:15:43.010] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[29Dec2024 17:15:43.013] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[29Dec2024 17:15:43.016] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[29Dec2024 17:15:49.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS moved too quickly! -4.829658816882329,2.0,-8.550123876793691
+[29Dec2024 17:15:52.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3992ms or 79 ticks behind
+[29Dec2024 17:16:23.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[29Dec2024 17:16:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[29Dec2024 17:17:25.639] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[29Dec2024 17:17:25.646] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_2
+[29Dec2024 17:17:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Magic Writing]
+[29Dec2024 17:19:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to marquitosTPMS]
+[29Dec2024 17:20:38.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Suit Up]
+[29Dec2024 17:20:41.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 17:20:41.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 17:20:48.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Pick and Place]
+[29Dec2024 17:21:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Trapped Inside]
+[29Dec2024 17:22:06.728] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_2
+[29Dec2024 17:22:06.732] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[29Dec2024 17:22:06.736] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[29Dec2024 17:22:06.739] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[29Dec2024 17:22:06.742] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[29Dec2024 17:22:06.745] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[29Dec2024 17:24:10.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -9.907502914927136,0.0,-1.8978982581312493
+[29Dec2024 17:24:10.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4480ms or 89 ticks behind
+[29Dec2024 17:24:18.565] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/house_basic
+[29Dec2024 17:24:18.566] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/golem
+[29Dec2024 17:24:18.566] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[29Dec2024 17:24:18.567] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[29Dec2024 17:24:18.571] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[29Dec2024 17:24:18.575] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[29Dec2024 17:24:18.578] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[29Dec2024 17:24:18.581] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[29Dec2024 17:24:18.585] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[29Dec2024 17:24:18.585] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[29Dec2024 17:24:18.591] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2

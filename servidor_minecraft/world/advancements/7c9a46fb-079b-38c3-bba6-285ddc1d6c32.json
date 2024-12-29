@@ -14976,6 +14976,12 @@
     },
     "done": true
   },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2024-12-29 17:19:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 17:03:16 +0000"
