@@ -12354,5 +12354,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-29 18:42:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

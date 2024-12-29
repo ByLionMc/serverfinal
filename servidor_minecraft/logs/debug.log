@@ -21556,3 +21556,61 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29Dec2024 18:31:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
 [29Dec2024 18:35:46.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 18:35:46.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 18:37:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 18:38:20.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6597, y=119, z=-781} BlockPos{x=6610, y=119, z=-780}
+[29Dec2024 18:39:50.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Dec2024 18:39:50.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[29Dec2024 18:40:46.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 18:40:46.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 18:42:02.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[29Dec2024 18:42:39.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[29Dec2024 18:42:39.291] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[29Dec2024 18:42:39.297] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 18:42:39.298] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 18:42:39.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[29Dec2024 18:42:39.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/tower/whole
+[29Dec2024 18:42:39.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gilded_blackstone
+[29Dec2024 18:42:39.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/bridge_chest
+[29Dec2024 18:42:39.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/treasure_chest
+[29Dec2024 18:42:39.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/normal
+[29Dec2024 18:42:39.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/piglins
+[29Dec2024 18:42:39.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/nether_wart
+[29Dec2024 18:42:39.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/blaze_spawner
+[29Dec2024 18:42:39.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/ruined
+[29Dec2024 18:42:39.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/gold
+[29Dec2024 18:42:39.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/chisel
+[29Dec2024 18:42:39.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/glowstone
+[29Dec2024 18:42:39.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gold_blocks
+[29Dec2024 18:42:39.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/hoglin_spawner
+[29Dec2024 18:42:39.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/netherite
+[29Dec2024 18:42:39.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_building_1
+[29Dec2024 18:42:39.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[29Dec2024 18:42:40.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[29Dec2024 18:42:40.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[29Dec2024 18:42:40.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[29Dec2024 18:42:40.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[29Dec2024 18:43:16.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:16.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:16.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:16.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:16.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:17.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6617, y=116, z=-748} BlockPos{x=6616, y=116, z=-748}
+[29Dec2024 18:43:45.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_building_2
+[29Dec2024 18:44:14.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[29Dec2024 18:45:32.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[29Dec2024 18:45:46.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 18:45:46.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 18:45:50.680] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[29Dec2024 18:45:50.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[29Dec2024 18:45:50.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[29Dec2024 18:45:51.249] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[29Dec2024 18:47:03.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
